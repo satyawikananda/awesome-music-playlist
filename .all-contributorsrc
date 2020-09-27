@@ -2,13 +2,24 @@
   "projectName": "your-fav-playlist",
   "projectOwner": "satyawikananda",
   "repoType": "github",
-  "repoHost": "https://github.com/satyawikananda/your-fav-playlist",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 120,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "satyawikananda",
+      "name": "I Gusti Ngurah Satya Wikananda",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33148052?v=4",
+      "profile": "https://satyawikananda.tech",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
