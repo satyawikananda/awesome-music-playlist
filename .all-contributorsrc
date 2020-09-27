@@ -1,0 +1,14 @@
+{
+  "projectName": "your-fav-playlist",
+  "projectOwner": "satyawikananda",
+  "repoType": "github",
+  "repoHost": "https://github.com/satyawikananda/your-fav-playlist",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 120,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
+}

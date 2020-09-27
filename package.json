@@ -4,7 +4,7 @@
   "main": "N/a",
   "repository": "https://github.com/satyawikananda/your-fav-playlist.git",
   "scripts": {
-    "deploy": "fiddly"
+    "build": "fiddly"
   },
   "author": "satyawikananda <satyawikananda456@gmail.com>",
   "license": "MIT",
