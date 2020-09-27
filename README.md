@@ -23,7 +23,7 @@ Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playli
 ```markdown
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- |
-| Judul playlist |[Link playlist](link playlist)|Nama platform| [Nama pembuat playlist](url akun github mu) | Jika ada catatan silahkan diisi, kalau tidak bisa isi dengan (-) |
+| Judul playlist |[Link playlist](link playlist)|Nama platform| [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak bisa, isi dengan (-) |
 ```
 
 ## Genre playlist
@@ -38,6 +38,7 @@ Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playli
 | Nama playlist | Link playlist | Platform | Pembuat | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Jpop songs |[https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE)|Youtube Music| [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Just Jpop songs |
 
 ## Electronic Dance Music
 
