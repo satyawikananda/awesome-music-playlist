@@ -1,0 +1,15 @@
+{
+  "name": "your-fav-playlist",
+  "version": "1.0.0",
+  "main": "N/a",
+  "repository": "https://github.com/satyawikananda/your-fav-playlist.git",
+  "scripts": {
+    "deploy": "fiddly"
+  },
+  "author": "satyawikananda <satyawikananda456@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^6.17.4",
+    "fiddly": "^0.9.1"
+  }
+}
