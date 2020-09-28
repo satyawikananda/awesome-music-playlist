@@ -38,7 +38,6 @@ Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playli
 | Nama playlist | Link playlist | Platform | Pembuat | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Jpop songs |[https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE)|Youtube Music| [Satya Wikananda](https://github.com/satyawikananda) | - |
-| Just Jpop songs |
 
 ## Electronic Dance Music
 
