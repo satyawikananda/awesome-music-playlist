@@ -14,7 +14,7 @@
 
 ## Pendahuluan
 
-Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah terlihat seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
+Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah dapat diakses seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
 
 > _repository_ ini saya buat untuk membantu teman-teman saya yang ingin mengajukan _pull request_ untuk acara hacktoberfest
 
@@ -24,27 +24,40 @@ Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playli
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- |
 | Judul playlist |[Link playlist](link playlist)|Nama platform| [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak bisa, isi dengan (-) |
+
+Jika ada playlist yang bertipe podcast
+
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Judul playlist |[Link playlist](link playlist)|Nama platform| [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
+
 ```
 
 ## Genre playlist
 
-> Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang terkait dengan genre playlist kalian
+Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang terkait dengan genre playlist kalian. Untuk genrenya, kalian bebas memasukan genre apapun
 
 - [J-pop](#j-pop)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Podcast](#podcast)
 
 ## J-pop
 
-| Nama playlist | Link playlist | Platform | Pembuat | Catatan | 
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Jpop songs |[https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE)|Youtube Music| [Satya Wikananda](https://github.com/satyawikananda) | - |
 
 ## Electronic Dance Music
 
-| Nama playlist | Link playlist | Platform | Pembuat | Catatan |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Edm songs |[https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A)|Spotify| [Satya Wikananda](https://github.com/satyawikananda) | - |
 
+## Podcast
+
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
 
 ## Kontributor ✨
 
