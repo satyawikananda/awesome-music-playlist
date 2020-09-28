@@ -14,9 +14,9 @@
 
 ## Pendahuluan
 
-Your fav playlist adalah sebuah _repository_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah dapat diakses seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
+Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah dapat diakses seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
 
-> _repository_ ini saya buat untuk membantu teman-teman saya yang ingin mengajukan _pull request_ untuk acara hacktoberfest
+> _repositori_ ini saya buat untuk membantu teman-teman saya yang ingin mengajukan _pull request_ untuk acara hacktoberfest
 
 ## Panduan kontribusi
 
@@ -61,7 +61,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 
 ## Kontributor ✨
 
-Terimakasih yang sudah berkontribusi di repository saya ini 😊 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
