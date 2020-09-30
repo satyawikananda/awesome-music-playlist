@@ -40,6 +40,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 - [J-pop](#j-pop)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Lofi HipHop](#lofi-hiphop)
 - [Podcast](#podcast)
 
 ## Trap
@@ -65,6 +66,12 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- | ------------- | -------- | ------- | ------- |
 | Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - |
+
+## Lo-Fi HipHop
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- | ------------- | -------- | ------- | ------- |
+| Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
+
 
 ## Podcast
 
