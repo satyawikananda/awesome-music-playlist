@@ -38,6 +38,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [J-pop](#j-pop)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
+- [R&B](#R&B)
 - [Podcast](#podcast)
 
 ## Trap
@@ -63,6 +64,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+
+## R&B
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Self Care | [https://youtu.be/SsKT0s5J8ko](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | - |
 
 ## Podcast
 
