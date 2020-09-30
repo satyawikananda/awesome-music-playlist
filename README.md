@@ -38,7 +38,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [J-pop](#j-pop)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
-- [R&B](#R&B)
+- [R&B](#r&b)
+- [Pop](#pop)
 - [Podcast](#podcast)
 
 ## Trap
@@ -70,6 +71,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Self Care | [https://youtu.be/SsKT0s5J8ko](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | - |
+
+## Pop
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
+
 
 ## Podcast
 
