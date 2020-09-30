@@ -20,7 +20,6 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 
 ## Panduan kontribusi
 
-```markdown
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- | ------------- | --------- | ------ | ------- |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak bisa, isi dengan (-) |
@@ -30,7 +29,6 @@ Jika ada playlist yang bertipe podcast
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
 | -------------- | ------------- | -------- | ------- | --------- | ------ |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
-```
 
 ## Genre playlist
 
