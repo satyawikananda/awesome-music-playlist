@@ -39,6 +39,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 
 - [J-pop](#j-pop)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Eurobeat](#eurobeat)
 - [Podcast](#podcast)
 
 ## J-pop
