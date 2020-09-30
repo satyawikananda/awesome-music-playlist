@@ -38,6 +38,7 @@ Jika ada playlist yang bertipe podcast
 Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang terkait dengan genre playlist kalian. Untuk genrenya, kalian bebas memasukan genre apapun
 
 - [J-pop](#j-pop)
+- [Kawaii-Metal](#kawaii-metal)
 - [Electronic Dance Music](#electronic-dance-music)
 - [Podcast](#podcast)
 
@@ -47,6 +48,11 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Jpop songs |[https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE)|Youtube Music| [Satya Wikananda](https://github.com/satyawikananda) | - |
 
+## Kawaii-metal
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
 ## Electronic Dance Music
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
@@ -58,6 +64,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- | --------- |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
+| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 
 ## Kontributor ✨
 
