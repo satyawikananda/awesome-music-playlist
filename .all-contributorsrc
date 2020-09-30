@@ -27,7 +27,16 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "pirey",
+      "name": "supryantowp",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52796494?s=400&u=e8b2b097cbdef13c22dfaeadfb58c11e6fec191d&v=4",
+      "profile": "http://supryantowp.com",
+      "contributions": [
+        "content"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "skipCi": true
