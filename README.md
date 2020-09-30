@@ -32,7 +32,7 @@ Jika ada playlist yang bertipe podcast
 
 ## Genre playlist
 
-Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang terkait dengan genre playlist kalian. Untuk genrenya, kalian bebas memasukan genre apapun
+Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
@@ -42,27 +42,27 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 
 ## Trap
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - | - |
 
 ## J-pop
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
 
 ## Eurobeat
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ----------- | -------- | ---------- | ---------- |
-| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ----------- | -------- | ---------- | ---------- | -------- |
+| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
 
 ## Electronic Dance Music
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ------------- | -------- | ------- | ------- |
-| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
 
 ## Podcast
 
