@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -119,6 +119,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://supryantowp.tech"><img src="https://avatars3.githubusercontent.com/u/52796494?v=4" width="120px;" alt=""/><br /><sub><b>Supryanto Widadi Putra</b></sub></a><br /><a href="#content-supryantowp" title="Content">🖋</a></td>
     <td align="center"><a href="http://fauzan.tech"><img src="https://avatars3.githubusercontent.com/u/50759463?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Fauzan</b></sub></a><br /><a href="#content-fauzan121002" title="Content">🖋</a></td>
     <td align="center"><a href="http://diosamuel.github.io"><img src="https://avatars2.githubusercontent.com/u/42204593?v=4" width="120px;" alt=""/><br /><sub><b>Virdio Samuel Saragih</b></sub></a><br /><a href="#content-diosamuel" title="Content">🖋</a></td>
+    <td align="center"><a href="https://kirintux.tech/"><img src="https://avatars3.githubusercontent.com/u/64598048?v=4" width="120px;" alt=""/><br /><sub><b>Enggar Tivandi</b></sub></a><br /><a href="#content-nekoding" title="Content">🖋</a></td>
   </tr>
 </table>
 
