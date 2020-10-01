@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -137,6 +137,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://aditaja.my.id"><img src="https://avatars1.githubusercontent.com/u/23249302?v=4" width="120px;" alt=""/><br /><sub><b>Aditya Rahman</b></sub></a><br /><a href="#content-kudaliar032" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="120px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/andikaputraputu"><img src="https://avatars0.githubusercontent.com/u/71690021?v=4" width="120px;" alt=""/><br /><sub><b>I Putu Andika Putra</b></sub></a><br /><a href="#content-andikaputraputu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/verkit"><img src="https://avatars3.githubusercontent.com/u/23150948?v=4" width="120px;" alt=""/><br /><sub><b>Verdy Bangkit</b></sub></a><br /><a href="#content-verkit" title="Content">🖋</a></td>
   </tr>
 </table>
 
