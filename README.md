@@ -36,8 +36,10 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
+- [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Lofi HipHop](#lofi-hiphop)
 - [R&B](#r&b)
 - [Pop](#pop)
 - [Podcast](#podcast)
@@ -50,9 +52,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 ## J-pop
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- |-------------- | -------- | ------- | ------- |
+| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Super Beaver | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - |
+| Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
+
 
 ## Eurobeat
 
@@ -60,6 +65,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ----------- | -------- | ---------- | ---------- | -------- |
 | Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
 
+## Kawaii-metal
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
 ## Electronic Dance Music
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
@@ -79,11 +89,19 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
 
 
+## Lo-Fi HipHop
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- | ------------- | -------- | ------- | ------- |
+| Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
+
+
 ## Podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| -------------- | ------------- | -------- | ------- | --------- | ------- |
-| Kode nol | [https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA) | Spotify | Deep tech foundation | Teknologi | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
+| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
+
 
 ## Kontributor ✨
 
@@ -98,6 +116,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://yeripratama.com"><img src="https://avatars3.githubusercontent.com/u/10344542?v=4" width="120px;" alt=""/><br /><sub><b>Yeri Pratama</b></sub></a><br /><a href="#content-pirey" title="Content">🖋</a></td>
     <td align="center"><a href="http://supryantowp.tech"><img src="https://avatars3.githubusercontent.com/u/52796494?v=4" width="120px;" alt=""/><br /><sub><b>Supryanto Widadi Putra</b></sub></a><br /><a href="#content-supryantowp" title="Content">🖋</a></td>
     <td align="center"><a href="http://fauzan.tech"><img src="https://avatars3.githubusercontent.com/u/50759463?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Fauzan</b></sub></a><br /><a href="#content-fauzan121002" title="Content">🖋</a></td>
+    <td align="center"><a href="http://diosamuel.github.io"><img src="https://avatars2.githubusercontent.com/u/42204593?v=4" width="120px;" alt=""/><br /><sub><b>Virdio Samuel Saragih</b></sub></a><br /><a href="#content-diosamuel" title="Content">🖋</a></td>
   </tr>
 </table>
 
