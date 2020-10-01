@@ -46,6 +46,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Lo-Fi HipHop](#lo-fi-hiphop)
 - [Instrumental](#instrumental)
 - [Podcast](#podcast)
+- [Murottal](#murottal)
 
 ## Trap
 
@@ -122,6 +123,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - | 
+
+## Murottal
+
+| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
+| ------------- | ------------- | -------- | ------- | --------- |
+| Juz Amma - Abdul Rahman Al-Sudais | [https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
 
 ## Kontributor ✨
 
