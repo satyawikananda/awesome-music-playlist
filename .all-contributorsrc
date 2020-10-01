@@ -144,6 +144,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "moepoi",
+      "name": "Moe Poi ~",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29736957?v=4",
+      "profile": "https://moepoi.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
