@@ -18,6 +18,24 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "pirey",
+      "name": "Yeri Pratama",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10344542?v=4",
+      "profile": "http://yeripratama.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "supryantowp",
+      "name": "Supryanto Widadi Putra",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52796494?v=4",
+      "profile": "http://supryantowp.tech",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
