@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -188,6 +188,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://whydn.dev"><img src="https://avatars3.githubusercontent.com/u/50127599?v=4" width="120px;" alt=""/><br /><sub><b>Wahyudin</b></sub></a><br /><a href="#content-whydn-dev" title="Content">🖋</a></td>
     <td align="center"><a href="https://fairportstudios.xyz/"><img src="https://avatars0.githubusercontent.com/u/53175514?v=4" width="120px;" alt=""/><br /><sub><b>Rommy Gustiawan</b></sub></a><br /><a href="#content-rgxcp" title="Content">🖋</a></td>
     <td align="center"><a href="https://samx23.github.io/"><img src="https://avatars3.githubusercontent.com/u/44131347?v=4" width="120px;" alt=""/><br /><sub><b>Sami Kalammallah</b></sub></a><br /><a href="#content-SamX23" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/gunturpratama"><img src="https://avatars0.githubusercontent.com/u/43977991?v=4" width="120px;" alt=""/><br /><sub><b>Guntur @tastedbyheart</b></sub></a><br /><a href="#content-gunturpratama" title="Content">🖋</a></td>
   </tr>
 </table>
 
