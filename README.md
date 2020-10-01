@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -145,6 +145,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://ismailhabibi.netlify.app"><img src="https://avatars3.githubusercontent.com/u/27947190?v=4" width="120px;" alt=""/><br /><sub><b>Ismail Habibi Herman</b></sub></a><br /><a href="#content-ismlhbb" title="Content">🖋</a></td>
     <td align="center"><a href="https://moepoi.dev"><img src="https://avatars1.githubusercontent.com/u/29736957?v=4" width="120px;" alt=""/><br /><sub><b>Moe Poi ~</b></sub></a><br /><a href="#content-moepoi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rafifirmansyah"><img src="https://avatars3.githubusercontent.com/u/27066514?v=4" width="120px;" alt=""/><br /><sub><b>rafifirmansyah28</b></sub></a><br /><a href="#content-rafifirmansyah" title="Content">🖋</a></td>
+    <td align="center"><a href="http://andreasjp0.github.io"><img src="https://avatars1.githubusercontent.com/u/49325037?v=4" width="120px;" alt=""/><br /><sub><b>Juwand</b></sub></a><br /><a href="#content-andreasjp0" title="Content">🖋</a></td>
   </tr>
 </table>
 
