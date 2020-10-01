@@ -216,6 +216,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "whydn-dev",
+      "name": "Wahyudin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50127599?v=4",
+      "profile": "http://whydn.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
