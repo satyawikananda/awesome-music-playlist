@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -136,6 +136,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/verkit"><img src="https://avatars3.githubusercontent.com/u/23150948?v=4" width="120px;" alt=""/><br /><sub><b>Verdy Bangkit</b></sub></a><br /><a href="#content-verkit" title="Content">🖋</a></td>
     <td align="center"><a href="http://hendraaagil.github.io"><img src="https://avatars0.githubusercontent.com/u/54741166?v=4" width="120px;" alt=""/><br /><sub><b>Hendra Agil Syaputra</b></sub></a><br /><a href="#content-hendraaagil" title="Content">🖋</a></td>
     <td align="center"><a href="https://muhamad-zainal-arifin.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Zainal Arifin</b></sub></a><br /><a href="#content-Zainal21" title="Content">🖋</a></td>
+    <td align="center"><a href="https://profil-andikatulus.web.app"><img src="https://avatars3.githubusercontent.com/u/62005221?v=4" width="120px;" alt=""/><br /><sub><b>Andika Tulus Pangestu</b></sub></a><br /><a href="#content-andikatuluspangestu" title="Content">🖋</a></td>
   </tr>
 </table>
 
