@@ -105,6 +105,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Ceritanya Developer Podcast |[https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
