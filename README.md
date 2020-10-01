@@ -48,6 +48,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Podcast](#podcast)
 - [Murottal](#murottal)
 - [Soul](#soul)
+- [Epic & Melodic](#epicmelodic)
 
 ## Trap
 
@@ -144,6 +145,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | Soul | [https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg](https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg) | Spotify  | [Rommy Gustiawan](https://github.com/rgxcp) | - | - |
+
+## Epic & Melodic
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Best of the blessed | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f) | Spotify  | [Ryan](https://github.com/Ryzenv9) | - | - |
 
 ## Kontributor ✨
 
