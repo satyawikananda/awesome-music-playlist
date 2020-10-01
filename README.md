@@ -30,6 +30,8 @@ Jika ada playlist yang bertipe podcast
 | -------------- | ------------- | -------- | ------- | --------- | ------ |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
 
+> Disclaimer: Bacalah [contribution guide](CONTRIBUTING.md) terlebih dahulu !
+
 ## Genre playlist
 
 Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
