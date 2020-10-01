@@ -20,9 +20,9 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 
 ## Panduan kontribusi
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre | 
-| -------------- | ------------- | --------- | ------ | ------- | -------- | 
-| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) | 
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | --------- | ------ | ------- | -------- |
+| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) |
 
 Jika ada playlist yang bertipe podcast
 
@@ -76,11 +76,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- |
 | Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
+
 ## Electronic Dance Music
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+| Reverst - Wish U | [Wish U](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
 
 ## R&B
 
@@ -122,8 +124,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Ceritanya Developer Podcast |[https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
-| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
-|Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - | 
+| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
+|Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
 
 ## Murottal
 
