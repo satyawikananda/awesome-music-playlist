@@ -36,6 +36,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
+- [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
 - [R&B](#r&b)
@@ -60,6 +61,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ----------- | -------- | ---------- | ---------- | -------- |
 | Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
 
+## Kawaii-metal
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
 ## Electronic Dance Music
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
@@ -81,9 +87,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 ## Podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| -------------- | ------------- | -------- | ------- | --------- | ------- |
-| Kode nol | [https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA) | Spotify | Deep tech foundation | Teknologi | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
+| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
+
 
 ## Kontributor ✨
 
