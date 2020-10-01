@@ -39,6 +39,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Lofi HipHop](#lofi-hiphop)
 - [R&B](#r&b)
 - [Pop](#pop)
 - [Podcast](#podcast)
@@ -83,6 +84,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
+
+
+## Lo-Fi HipHop
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- | ------------- | -------- | ------- | ------- |
+| Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 
 
 ## Podcast
