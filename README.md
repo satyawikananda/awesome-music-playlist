@@ -131,6 +131,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
+| Menjadi Manusia | [Spotify](https://open.spotify.com/show/3czvHT8ALg4yRSSTmZvPOe?si=057YYEeZS6yXlRzk2xDEUw) | Spotify | Menjadi Manusia | Kehidupan | Menjadi Manusia adalah sebuah social-platform untuk mereka yang ingin berbagi & mendengar cerita-cerita tentang kehidupan dari berbagai sudut pandang, dan diharapkan mampu menjadi sebuah tangga untuk mendapatkan setitik harapan bagi mereka yang memiliki persoalan-persoalan dalam kehidupan. |
 
 ## Murottal
 
