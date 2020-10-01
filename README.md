@@ -40,6 +40,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 - [J-pop](#j-pop)
 - [Electronic Dance Music](#electronic-dance-music)
 - [Podcast](#podcast)
+- [Pop](#pop)
 
 ## J-pop
 
@@ -58,6 +59,12 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
 | ------------- | ------------- | -------- | ------- | ------- | --------- |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
+
+## Pop
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
+
 
 ## Kontributor ✨
 
