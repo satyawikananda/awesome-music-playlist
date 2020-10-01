@@ -53,6 +53,7 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
 | Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
 
 ## Eurobeat
 
