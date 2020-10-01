@@ -93,6 +93,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | KANGEN BAND | [KANGEN BAND](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
 | Payung Teduh | [https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
 | Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
+| Armada Band |[https://youtu.be/FS391MDbrhM](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
 
 
 ## Lo-Fi HipHop
