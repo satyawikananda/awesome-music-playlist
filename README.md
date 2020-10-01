@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -45,7 +45,6 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [R&B](#r&b)
 - [Pop](#pop)
 - [Podcast](#podcast)
-- [Pop](#pop)
 
 ## Trap
 
@@ -92,6 +91,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
 | KANGEN BAND | [KANGEN BAND](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
+| Payung Teduh | [https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
+| Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
+| Armada Band |[https://youtu.be/FS391MDbrhM](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
 
 
 ## Lo-Fi HipHop
@@ -104,15 +106,10 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Ceritanya Developer Podcast |[https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
-
-
-## Pop
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- |
-| Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
 
 
 ## Kontributor ✨
@@ -136,6 +133,8 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://aditaja.my.id"><img src="https://avatars1.githubusercontent.com/u/23249302?v=4" width="120px;" alt=""/><br /><sub><b>Aditya Rahman</b></sub></a><br /><a href="#content-kudaliar032" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="120px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/andikaputraputu"><img src="https://avatars0.githubusercontent.com/u/71690021?v=4" width="120px;" alt=""/><br /><sub><b>I Putu Andika Putra</b></sub></a><br /><a href="#content-andikaputraputu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/verkit"><img src="https://avatars3.githubusercontent.com/u/23150948?v=4" width="120px;" alt=""/><br /><sub><b>Verdy Bangkit</b></sub></a><br /><a href="#content-verkit" title="Content">🖋</a></td>
+    <td align="center"><a href="http://hendraaagil.github.io"><img src="https://avatars0.githubusercontent.com/u/54741166?v=4" width="120px;" alt=""/><br /><sub><b>Hendra Agil Syaputra</b></sub></a><br /><a href="#content-hendraaagil" title="Content">🖋</a></td>
   </tr>
 </table>
 
