@@ -198,6 +198,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dodycode",
+      "name": "Dody",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20751329?v=4",
+      "profile": "https://github.com/dodycode",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
