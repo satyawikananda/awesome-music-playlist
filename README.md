@@ -102,7 +102,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ------------- | -------- | ------- | ------- |
 | Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 | lofi hip hop music - beats to relax/study to | [https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
-
+| chilledCow - Lo-Fi Hip Hop | https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1 | Youtube | [Juwand](https://github.com/andreasjp0) | - |
 
 ## Podcast
 
