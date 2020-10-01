@@ -61,9 +61,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
 | Keyakizaka46 | [https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify | [Alit Tri Utari](https://github.com/alittriutari)
 | Moepoi's Music | [https://t.me/moepoi_music](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - |
-| Naruto - Openings & Endings | [https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw
-](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw
-) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - |
+| Naruto - Openings & Endings | [https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - |
 
 ## Eurobeat
 
