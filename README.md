@@ -140,6 +140,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
 | ------------- | ------------- | -------- | ------- | --------- |
 | Juz Amma - Abdul Rahman Al-Sudais | [https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
+| Tilawah - Ust. Hannan Attaki | [https://www.youtube.com/playlist?list=PLPVaZBOpYqfDkN-AEA_qVpMMFxycBk4_q](https://www.youtube.com/playlist?list=PLPVaZBOpYqfDkN-AEA_qVpMMFxycBk4_q) | Youtube | [HananAttaki](https://www.youtube.com/c/HananAttaki) | - |
 
 ## Soul
 
