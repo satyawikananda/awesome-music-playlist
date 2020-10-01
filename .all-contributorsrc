@@ -109,7 +109,25 @@
         "content"
       ]
     },
-     {
+    {
+      "login": "hendraaagil",
+      "name": "Hendra Agil Syaputra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/54741166?v=4",
+      "profile": "http://hendraaagil.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Zainal21",
+      "name": "Muhamad Zainal Arifin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48118434?v=4",
+      "profile": "https://muhamad-zainal-arifin.netlify.app/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "beforesecond",
       "name": "Patcharapon Chatsomboonchai",
       "avatar_url": "https://avatars0.githubusercontent.com/u/40176612?s=460&u=a5e7c2835415ad8ebcebacb7cf70d748e0e28c81&v=4",
