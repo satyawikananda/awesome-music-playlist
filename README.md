@@ -53,6 +53,11 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | ------------- | ------------- | -------- | ------- | ------- |
 | Just Edm songs |[https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A)|Spotify| [Satya Wikananda](https://github.com/satyawikananda) | - |
 
+## POP
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Indo 90an |[https://www.deezer.com/us/playlist/4211635062](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
+
 ## Podcast
 
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
