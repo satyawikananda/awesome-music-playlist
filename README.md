@@ -47,6 +47,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Instrumental](#instrumental)
 - [Podcast](#podcast)
 - [Murottal](#murottal)
+- [Soul](#soul)
 
 ## Trap
 
@@ -138,6 +139,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
 | ------------- | ------------- | -------- | ------- | --------- |
 | Juz Amma - Abdul Rahman Al-Sudais | [https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
+
+## Soul
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Soul | [https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg](https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg) | Spotify  | [Rommy Gustiawan](https://github.com/rgxcp) | - | - |
 
 ## Kontributor ✨
 
