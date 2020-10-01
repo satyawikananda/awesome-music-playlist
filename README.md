@@ -89,6 +89,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
+| KANGEN BAND | [KANGEN BAND](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
 
 
 ## Lo-Fi HipHop
@@ -99,7 +100,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 ## Podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- | --------- |
 | Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
