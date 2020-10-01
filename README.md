@@ -46,6 +46,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Lo-Fi HipHop](#lo-fi-hiphop)
 - [Instrumental](#instrumental)
 - [Podcast](#podcast)
+- [Murottal](#murottal)
 
 ## Trap
 
