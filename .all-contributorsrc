@@ -43,10 +43,10 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/51877647?v=4",
       "profile": "http://elianiva.github.io",
       "contributions": [
-          "content"
-        ]
-      },
-     {
+        "content"
+      ]
+    },
+    {
       "login": "fauzan121002",
       "name": "Muhammad Fauzan",
       "avatar_url": "https://avatars3.githubusercontent.com/u/50759463?v=4",
@@ -78,6 +78,15 @@
       "name": "Aditya Rahman",
       "avatar_url": "https://avatars1.githubusercontent.com/u/23249302?v=4",
       "profile": "https://aditaja.my.id",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alittriutari",
+      "name": "alittriutari",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/29432760?v=4",
+      "profile": "https://github.com/alittriutari",
       "contributions": [
         "content"
       ]
