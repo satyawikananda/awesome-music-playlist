@@ -103,6 +103,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Alexandra Porat Cover | [https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd](https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | J Fla | [https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Indo 90an |[https://www.deezer.com/us/playlist/4211635062](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
+| Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
 
 
 ## Lo-Fi HipHop
@@ -129,6 +130,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
 | Menjadi Manusia | [Spotify](https://open.spotify.com/show/3czvHT8ALg4yRSSTmZvPOe?si=057YYEeZS6yXlRzk2xDEUw) | Spotify | Menjadi Manusia | Kehidupan | Menjadi Manusia adalah sebuah social-platform untuk mereka yang ingin berbagi & mendengar cerita-cerita tentang kehidupan dari berbagai sudut pandang, dan diharapkan mampu menjadi sebuah tangga untuk mendapatkan setitik harapan bagi mereka yang memiliki persoalan-persoalan dalam kehidupan. |
+| Muzammil | [Spotify](https://open.spotify.com/show/6SpdHJQcjLyMaG8Q5Bzksv?si=mkWSg48tTYGxrSr4-u5jwQ) | Spotify | Ojal | Murottal | - |
 
 ## Murottal
 
@@ -182,6 +184,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://t.me/mnabila"><img src="https://avatars0.githubusercontent.com/u/37516576?v=4" width="120px;" alt=""/><br /><sub><b>M. Nabil Adani</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
     <td align="center"><a href="http://whydn.dev"><img src="https://avatars3.githubusercontent.com/u/50127599?v=4" width="120px;" alt=""/><br /><sub><b>Wahyudin</b></sub></a><br /><a href="#content-whydn-dev" title="Content">🖋</a></td>
     <td align="center"><a href="https://fairportstudios.xyz/"><img src="https://avatars0.githubusercontent.com/u/53175514?v=4" width="120px;" alt=""/><br /><sub><b>Rommy Gustiawan</b></sub></a><br /><a href="#content-rgxcp" title="Content">🖋</a></td>
+    <td align="center"><a href="https://samx23.github.io/"><img src="https://avatars2.githubusercontent.com/u/44131347?s=460&u=44d610e02036335a0886d134081e7099d04ff53a&v=4" width="120px;" alt=""/><br /><sub><b>Sami Kalammallah</b></sub></a><br /><a href="#content-rgxcp" title="Content">🖋</a></td>
   </tr>
 </table>
 
