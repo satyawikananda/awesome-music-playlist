@@ -65,7 +65,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Keyakizaka46 | [https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify | [Alit Tri Utari](https://github.com/alittriutari)
 | Moepoi's Music | [https://t.me/moepoi_music](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - |
 | Naruto - Openings & Endings | [https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - |
-| Inferno - MRS GREEN APPLE | [https://www.youtube.com/watch?v=wfCcs0vLysk] | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | Opening Enen No Shibutai | - |
+| Wee Boo For Lyfe | [https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ] | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - |
 
 ## Eurobeat
 
