@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -167,6 +167,9 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://tryoasnafi.my.id"><img src="https://avatars0.githubusercontent.com/u/61939827?v=4" width="120px;" alt=""/><br /><sub><b>Tryo Asnafi</b></sub></a><br /><a href="#content-tryoasnafi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rndprdn"><img src="https://avatars0.githubusercontent.com/u/39892767?v=4" width="120px;" alt=""/><br /><sub><b>Rendi Pradana</b></sub></a><br /><a href="#content-rndprdn" title="Content">🖋</a></td>
     <td align="center"><a href="https://hiskia.dev"><img src="https://avatars0.githubusercontent.com/u/44335799?v=4" width="120px;" alt=""/><br /><sub><b>Hiskia Anggi Puji Pratama</b></sub></a><br /><a href="#content-hiskiapp" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dodycode"><img src="https://avatars0.githubusercontent.com/u/20751329?v=4" width="120px;" alt=""/><br /><sub><b>Dody</b></sub></a><br /><a href="#content-dodycode" title="Content">🖋</a></td>
   </tr>
 </table>
 
