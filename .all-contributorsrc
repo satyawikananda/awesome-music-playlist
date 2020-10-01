@@ -43,6 +43,42 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/51877647?v=4",
       "profile": "http://elianiva.github.io",
       "contributions": [
+          "content"
+        ]
+      },
+     {
+      "login": "fauzan121002",
+      "name": "Muhammad Fauzan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/50759463?v=4",
+      "profile": "http://fauzan.tech",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "diosamuel",
+      "name": "Virdio Samuel Saragih",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/42204593?v=4",
+      "profile": "http://diosamuel.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nekoding",
+      "name": "Enggar Tivandi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/64598048?v=4",
+      "profile": "https://kirintux.tech/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kudaliar032",
+      "name": "Aditya Rahman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23249302?v=4",
+      "profile": "https://aditaja.my.id",
+      "contributions": [
         "content"
       ]
     }
