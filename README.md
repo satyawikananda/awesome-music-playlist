@@ -102,6 +102,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Armada Band |[https://youtu.be/FS391MDbrhM](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
 | Alexandra Porat Cover | [https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd](https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | J Fla | [https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
+| Indo 90an |[https://www.deezer.com/us/playlist/4211635062](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
 
 
 ## Lo-Fi HipHop
@@ -117,11 +118,6 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
 | ------------- | ------------- | -------- | ------- | --------- |
 | This is Yiruma | [https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
-
-## POP
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- |
-| Indo 90an |[https://www.deezer.com/us/playlist/4211635062](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
 
 ## Podcast
 
