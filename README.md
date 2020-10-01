@@ -60,6 +60,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Super Beaver | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - |
 | Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
 | Keyakizaka46 | [https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify | [Alit Tri Utari](https://github.com/alittriutari)
+| Moepoi's Music | [https://t.me/moepoi_music](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - |
 
 
 ## Eurobeat
