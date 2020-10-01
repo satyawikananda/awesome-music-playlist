@@ -3,7 +3,9 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -20,14 +22,14 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 
 ## Panduan kontribusi
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre | 
-| -------------- | ------------- | --------- | ------ | ------- | -------- | 
-| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) | 
+| Judul playlist | Link playlist                  | Platform      | Pembuat                                                                                   | Catatan                                                           | Subgenre                                                                     |
+| -------------- | ------------------------------ | ------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) |
 
 Jika ada playlist yang bertipe podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| -------------- | ------------- | -------- | ------- | --------- | ------ |
+| Judul playlist | Link playlist                  | Platform      | Pembuat                                                                                   | Kategori                                | Catatan                                                           |
+| -------------- | ------------------------------ | ------------- | ----------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------- |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
 
 > Disclaimer: Bacalah [contribution guide](CONTRIBUTING.md) terlebih dahulu !
@@ -38,6 +40,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
+- [Thai-pop](#thai-pop)
 - [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
@@ -49,72 +52,76 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 ## Trap
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - | - |
+| Judul playlist        | Link playlist                                                                                                                                                            | Platform | Pembuat                                       | Catatan | Subgenre |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | --------------------------------------------- | ------- | -------- |
+| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | -       | -        |
 
 ## J-pop
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
-| Super Beaver | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - |
-| Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
-| Keyakizaka46 | [https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify | [Alit Tri Utari](https://github.com/alittriutari)
+| Judul playlist  | Link playlist                                                                                                                                                            | Platform      | Pembuat                                              | Catatan |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---------------------------------------------------- | ------- |
+| Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE)                 | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | -       |
+| Super Beaver    | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw)       | Spotify       | [kucengorenji](https://github.com/kucengorenji)      | -       |
+| Bandori         | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify       | [Enggar Tivandi](https://github.com/nekoding)        | -       |
+| Keyakizaka46    | [https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify       | [Alit Tri Utari](https://github.com/alittriutari)    |
 
+## thai-pop
+
+| Judul playlist      | Link playlist                                                                                                        | Platform | Pembuat                                          | Catatan |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------ | ------- |
+| Thai pop songs hits | [https://open.spotify.com/playlist/3UgbkYQnqsue0LbbcUUCDN](https://open.spotify.com/playlist/3UgbkYQnqsue0LbbcUUCDN) | Spotify  | [Before Second](https://github.com/beforesecond) | -       |
 
 ## Eurobeat
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ----------- | -------- | ---------- | ---------- | -------- |
-| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
+| Judul playlist    | Link playlist                                                                              | Platform | Pembuat                          | Catatan                                                | Subgenre |
+| ----------------- | ------------------------------------------------------------------------------------------ | -------- | -------------------------------- | ------------------------------------------------------ | -------- |
+| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | -        |
 
 ## Kawaii-metal
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- |
-| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
+| Judul playlist      | Link playlist                                                                                                                                                            | Platform | Pembuat                                 | Catatan                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | --------------------------------------- | ---------------------------------------------------- |
+| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify  | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
+
 ## Electronic Dance Music
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+| Judul playlist | Link playlist                                                                                                                                                            | Platform | Pembuat                                              | Catatan | Subgenre |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------------------------------------------------- | ------- | -------- |
+| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | -       | -        |
 
 ## R&B
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Self Care | [https://youtu.be/SsKT0s5J8ko](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | - |
+| Judul playlist | Link playlist                                                | Platform | Pembuat                                            | Catatan                                         | Subgenre |
+| -------------- | ------------------------------------------------------------ | -------- | -------------------------------------------------- | ----------------------------------------------- | -------- |
+| Self Care      | [https://youtu.be/SsKT0s5J8ko](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | -        |
 
 ## Pop
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
-| KANGEN BAND | [KANGEN BAND](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
-| Payung Teduh | [https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
-
+| Judul playlist       | Link playlist                                                                                                                                                              | Platform      | Pembuat                                            | Catatan                                            | Subgenre   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------- | -------------------------------------------------- | ---------- |
+| Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo)                                                                                                               | Youtube       | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop  |
+| KANGEN BAND          | [KANGEN BAND](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn)                                                                                  | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032)    | -                                                  | Pop Melayu |
+| Payung Teduh         | [https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit)         | Lagu enak buat anak senja                          | -          |
 
 ## Lo-Fi HipHop
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ------------- | -------- | ------- | ------- |
-| Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 
+| Judul playlist | Link playlist                                                                                                                                        | Platform | Pembuat                                       | Catatan                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------- | ------------------------------ |
+| Calm Lo-Fi     | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 
 ## Podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- | --------- |
-| Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
-| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
-| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
-
+| Judul playlist       | Link playlist                                                                                                                                                    | Platform        | Pembuat                                             | Kategori         | Catatan                                           |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| Kode nol             | [https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA) | Spotify         | Deep tech foundation                                | Teknologi        | -                                                 |
+| Trash Taste          | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos)                 | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment    | -                                                 |
+| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung)                                                                        | Spotify         | Ario Pratomo & Fellexandro Ruby                     | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
 
 ## Pop
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- |
-| Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
 
+| Judul playlist | Link playlist                                                                                                                                                            | Platform | Pembuat                                            | Catatan |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | -------------------------------------------------- | ------- |
+| Teman Kerja    | [https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg) | Spotify  | [Andika Putra](https://github.com/andikaputraputu) | -       |
 
 ## Kontributor ✨
 
@@ -143,6 +150,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Projek ini menggunakan [all-contributors](https://github.com/all-contributors/all-contributors) specification. Kontribusi dalam bentuk apapun diterima 😊
