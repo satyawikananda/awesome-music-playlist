@@ -123,6 +123,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - | 
 
+## Murottal
+
+| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
+| ------------- | ------------- | -------- | ------- | --------- |
+| Juz Amma - Abdul Rahman Al-Sudais | [https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
+
 ## Kontributor ✨
 
 Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
