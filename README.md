@@ -20,9 +20,9 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 
 ## Panduan kontribusi
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ------------- | --------- | ------ | ------- |
-| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak bisa, isi dengan (-) |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre | 
+| -------------- | ------------- | --------- | ------ | ------- | -------- | 
+| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) | 
 
 Jika ada playlist yang bertipe podcast
 
