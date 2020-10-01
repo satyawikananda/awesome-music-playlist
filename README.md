@@ -20,7 +20,6 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 
 ## Panduan kontribusi
 
-```markdown
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- | ------------- | --------- | ------ | ------- |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak bisa, isi dengan (-) |
@@ -30,23 +29,26 @@ Jika ada playlist yang bertipe podcast
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
 | -------------- | ------------- | -------- | ------- | --------- | ------ |
 | Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
-```
 
 ## Genre playlist
 
-Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang terkait dengan genre playlist kalian. Untuk genrenya, kalian bebas memasukan genre apapun
+Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
+- [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Lofi HipHop](#lofi-hiphop)
+- [R&B](#r&b)
+- [Pop](#pop)
 - [Podcast](#podcast)
 
 ## Trap
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| 🚀 On Fire Trap Beats | [https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - | - |
 
 ## J-pop
 
@@ -55,23 +57,50 @@ Kalian bisa menambahkan genre playlist kalian, jika masih belum ada genre yang t
 | Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
 | Super Beaver | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw] (https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [Koceng oren] (https://github.com/kucengorenji) | - |
 
+
 ## Eurobeat
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ----------- | -------- | ---------- | ---------- |
-| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung |
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ----------- | -------- | ---------- | ---------- | -------- |
+| Tofu Delivery BGM | [https://www.youtube.com/watch?v=ZOYTfpHl0JA](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
 
+## Kawaii-metal
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Legend Metal Galaxy | [https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
 ## Electronic Dance Music
 
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
+
+## R&B
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Self Care | [https://youtu.be/SsKT0s5J8ko](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | - |
+
+## Pop
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Break My Heart Again | [https://youtu.be/HjmBLCbTgDo](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
+
+
+## Lo-Fi HipHop
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- | ------------- | -------- | ------- | ------- |
-| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify  | [Satya Wikananda](https://github.com/satyawikananda) | - |
+| Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
+
 
 ## Podcast
 
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| -------------- | ------------- | -------- | ------- | --------- | ------- |
-| Kode nol | [https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA) | Spotify | Deep tech foundation | Teknologi | - |
+| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan | 
+| ------------- | ------------- | -------- | ------- | ------- | --------- |
+| Kode nol |[https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
+| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
+
 
 ## Kontributor ✨
 
