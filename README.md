@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -56,6 +56,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- |-------------- | -------- | ------- | ------- |
 | Just Jpop songs | [https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
 | Super Beaver | [https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - |
+| Bandori | [https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
 
 
 ## Eurobeat
@@ -114,6 +115,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://satyawikananda.tech"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="120px;" alt=""/><br /><sub><b>I Gusti Ngurah Satya Wikananda</b></sub></a><br /><a href="#maintenance-satyawikananda" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://yeripratama.com"><img src="https://avatars3.githubusercontent.com/u/10344542?v=4" width="120px;" alt=""/><br /><sub><b>Yeri Pratama</b></sub></a><br /><a href="#content-pirey" title="Content">🖋</a></td>
     <td align="center"><a href="http://supryantowp.tech"><img src="https://avatars3.githubusercontent.com/u/52796494?v=4" width="120px;" alt=""/><br /><sub><b>Supryanto Widadi Putra</b></sub></a><br /><a href="#content-supryantowp" title="Content">🖋</a></td>
+    <td align="center"><a href="http://diosamuel.github.io"><img src="https://avatars2.githubusercontent.com/u/42204593?v=4" width="120px;" alt=""/><br /><sub><b>Virdio Samuel Saragih</b></sub></a><br /><a href="#content-diosamuel" title="Content">🖋</a></td>
   </tr>
 </table>
 
