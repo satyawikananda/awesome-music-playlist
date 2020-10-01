@@ -38,12 +38,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
-- [Kawaii-Metal](#kawaii-metal)
 - [Eurobeat](#eurobeat)
+- [Kawaii-metal](#kawaii-metal)
 - [Electronic Dance Music](#electronic-dance-music)
-- [Lofi HipHop](#lofi-hiphop)
-- [R&B](#r&b)
+- [R&B](#rb)
 - [Pop](#pop)
+- [Lo-Fi HipHop](#lo-fi-hiphop)
+- [Instrumental](#instrumental)
 - [Podcast](#podcast)
 
 ## Trap
@@ -95,6 +96,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Payung Teduh | [https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
 | Teman Kerja |[https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
 | Armada Band |[https://youtu.be/FS391MDbrhM](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
+| Alexandra Porat Cover | [https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd](https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
+| J Fla | [https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 
 
 ## Lo-Fi HipHop
@@ -103,6 +106,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Calm Lo-Fi | [https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 | lofi hip hop music - beats to relax/study to | [https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
 | chilledCow - Lo-Fi Hip Hop | https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1 | Youtube | [Juwand](https://github.com/andreasjp0) | - |
+
+## Instrumental
+
+| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
+| ------------- | ------------- | -------- | ------- | --------- |
+| This is Yiruma | [https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 
 ## Podcast
 
@@ -113,7 +122,6 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - | 
-
 
 ## Kontributor ✨
 
