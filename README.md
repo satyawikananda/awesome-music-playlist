@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -153,32 +153,33 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
 <table>
   <tr>
     <td align="center"><a href="https://satyawikananda.tech"><img src="https://avatars1.githubusercontent.com/u/33148052?v=4" width="120px;" alt=""/><br /><sub><b>I Gusti Ngurah Satya Wikananda</b></sub></a><br /><a href="#maintenance-satyawikananda" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/atrem13/"><img src="https://avatars0.githubusercontent.com/u/31754826?v=4" width="120px;" alt=""/><br /><sub><b>Merta Yoga</b></sub></a><br /><a href="#content-atrem13" title="Content">🖋</a></td>
     <td align="center"><a href="http://yeripratama.com"><img src="https://avatars3.githubusercontent.com/u/10344542?v=4" width="120px;" alt=""/><br /><sub><b>Yeri Pratama</b></sub></a><br /><a href="#content-pirey" title="Content">🖋</a></td>
     <td align="center"><a href="http://supryantowp.tech"><img src="https://avatars3.githubusercontent.com/u/52796494?v=4" width="120px;" alt=""/><br /><sub><b>Supryanto Widadi Putra</b></sub></a><br /><a href="#content-supryantowp" title="Content">🖋</a></td>
     <td align="center"><a href="http://elianiva.github.io"><img src="https://avatars0.githubusercontent.com/u/51877647?v=4" width="120px;" alt=""/><br /><sub><b>elianiva</b></sub></a><br /><a href="#content-elianiva" title="Content">🖋</a></td>
     <td align="center"><a href="http://fauzan.tech"><img src="https://avatars3.githubusercontent.com/u/50759463?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Fauzan</b></sub></a><br /><a href="#content-fauzan121002" title="Content">🖋</a></td>
     <td align="center"><a href="http://diosamuel.github.io"><img src="https://avatars2.githubusercontent.com/u/42204593?v=4" width="120px;" alt=""/><br /><sub><b>Virdio Samuel Saragih</b></sub></a><br /><a href="#content-diosamuel" title="Content">🖋</a></td>
-    <td align="center"><a href="https://kirintux.tech/"><img src="https://avatars3.githubusercontent.com/u/64598048?v=4" width="120px;" alt=""/><br /><sub><b>Enggar Tivandi</b></sub></a><br /><a href="#content-nekoding" title="Content">🖋</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://kirintux.tech/"><img src="https://avatars3.githubusercontent.com/u/64598048?v=4" width="120px;" alt=""/><br /><sub><b>Enggar Tivandi</b></sub></a><br /><a href="#content-nekoding" title="Content">🖋</a></td>
     <td align="center"><a href="https://aditaja.my.id"><img src="https://avatars1.githubusercontent.com/u/23249302?v=4" width="120px;" alt=""/><br /><sub><b>Aditya Rahman</b></sub></a><br /><a href="#content-kudaliar032" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/alittriutari"><img src="https://avatars3.githubusercontent.com/u/29432760?v=4" width="120px;" alt=""/><br /><sub><b>alittriutari</b></sub></a><br /><a href="#content-alittriutari" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/andikaputraputu"><img src="https://avatars0.githubusercontent.com/u/71690021?v=4" width="120px;" alt=""/><br /><sub><b>I Putu Andika Putra</b></sub></a><br /><a href="#content-andikaputraputu" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/verkit"><img src="https://avatars3.githubusercontent.com/u/23150948?v=4" width="120px;" alt=""/><br /><sub><b>Verdy Bangkit</b></sub></a><br /><a href="#content-verkit" title="Content">🖋</a></td>
     <td align="center"><a href="http://hendraaagil.github.io"><img src="https://avatars0.githubusercontent.com/u/54741166?v=4" width="120px;" alt=""/><br /><sub><b>Hendra Agil Syaputra</b></sub></a><br /><a href="#content-hendraaagil" title="Content">🖋</a></td>
     <td align="center"><a href="https://muhamad-zainal-arifin.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/48118434?v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Zainal Arifin</b></sub></a><br /><a href="#content-Zainal21" title="Content">🖋</a></td>
-    <td align="center"><a href="https://profil-andikatulus.web.app"><img src="https://avatars3.githubusercontent.com/u/62005221?v=4" width="120px;" alt=""/><br /><sub><b>Andika Tulus Pangestu</b></sub></a><br /><a href="#content-andikatuluspangestu" title="Content">🖋</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://profil-andikatulus.web.app"><img src="https://avatars3.githubusercontent.com/u/62005221?v=4" width="120px;" alt=""/><br /><sub><b>Andika Tulus Pangestu</b></sub></a><br /><a href="#content-andikatuluspangestu" title="Content">🖋</a></td>
     <td align="center"><a href="http://ismailhabibi.netlify.app"><img src="https://avatars3.githubusercontent.com/u/27947190?v=4" width="120px;" alt=""/><br /><sub><b>Ismail Habibi Herman</b></sub></a><br /><a href="#content-ismlhbb" title="Content">🖋</a></td>
     <td align="center"><a href="https://moepoi.dev"><img src="https://avatars1.githubusercontent.com/u/29736957?v=4" width="120px;" alt=""/><br /><sub><b>Moe Poi ~</b></sub></a><br /><a href="#content-moepoi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rafifirmansyah"><img src="https://avatars3.githubusercontent.com/u/27066514?v=4" width="120px;" alt=""/><br /><sub><b>rafifirmansyah28</b></sub></a><br /><a href="#content-rafifirmansyah" title="Content">🖋</a></td>
     <td align="center"><a href="http://andreasjp0.github.io"><img src="https://avatars1.githubusercontent.com/u/49325037?v=4" width="120px;" alt=""/><br /><sub><b>Juwand</b></sub></a><br /><a href="#content-andreasjp0" title="Content">🖋</a></td>
     <td align="center"><a href="http://tryoasnafi.my.id"><img src="https://avatars0.githubusercontent.com/u/61939827?v=4" width="120px;" alt=""/><br /><sub><b>Tryo Asnafi</b></sub></a><br /><a href="#content-tryoasnafi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rndprdn"><img src="https://avatars0.githubusercontent.com/u/39892767?v=4" width="120px;" alt=""/><br /><sub><b>Rendi Pradana</b></sub></a><br /><a href="#content-rndprdn" title="Content">🖋</a></td>
-    <td align="center"><a href="https://hiskia.dev"><img src="https://avatars0.githubusercontent.com/u/44335799?v=4" width="120px;" alt=""/><br /><sub><b>Hiskia Anggi Puji Pratama</b></sub></a><br /><a href="#content-hiskiapp" title="Content">🖋</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://hiskia.dev"><img src="https://avatars0.githubusercontent.com/u/44335799?v=4" width="120px;" alt=""/><br /><sub><b>Hiskia Anggi Puji Pratama</b></sub></a><br /><a href="#content-hiskiapp" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/dodycode"><img src="https://avatars0.githubusercontent.com/u/20751329?v=4" width="120px;" alt=""/><br /><sub><b>Dody</b></sub></a><br /><a href="#content-dodycode" title="Content">🖋</a></td>
     <td align="center"><a href="https://t.me/mnabila"><img src="https://avatars0.githubusercontent.com/u/37516576?v=4" width="120px;" alt=""/><br /><sub><b>M. Nabil Adani</b></sub></a><br /><a href="#content-mnabila" title="Content">🖋</a></td>
     <td align="center"><a href="http://whydn.dev"><img src="https://avatars3.githubusercontent.com/u/50127599?v=4" width="120px;" alt=""/><br /><sub><b>Wahyudin</b></sub></a><br /><a href="#content-whydn-dev" title="Content">🖋</a></td>
