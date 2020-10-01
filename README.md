@@ -117,6 +117,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | ------------- | ------------- | -------- | ------- | --------- |
 | This is Yiruma | [https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 
+## POP
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| ------------- | ------------- | -------- | ------- | ------- |
+| Indo 90an |[https://www.deezer.com/us/playlist/4211635062](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
+
 ## Podcast
 
 | Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
