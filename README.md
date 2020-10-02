@@ -85,6 +85,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
 | Reverst | [Wish U](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
+| K-EDM House | [https://open.spotify.com/playlist/21EsHZCYpOlVGJKdnz2cG4?si=Ea7V11RcT8-mC_iLyJb42Q](https://open.spotify.com/playlist/21EsHZCYpOlVGJKdnz2cG4?si=Ea7V11RcT8-mC_iLyJb42Q) | Spotify | [Divetri](https://github.com/divetri) | KPop, but it's EDM/Deep House line. | Deep House |
 
 ## R&B
 
