@@ -181,6 +181,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Muzammil | [Spotify](https://open.spotify.com/show/6SpdHJQcjLyMaG8Q5Bzksv?si=mkWSg48tTYGxrSr4-u5jwQ) | Spotify | Ojal | Murottal | - |
 | LUTALK | [Spotify](https://open.spotify.com/show/2Pkv4GbecCiPFp6pf1wXf5?si=keczsKRxRHaQ8t4MfzKypw) | Spotify | Luthfi Suryanda Atmojo | Pop Kultur | Membahas anime, manga, musik, dan berbagai macam hal terkait pop kultur secara mendalam |
 | Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
+| Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
 
 ## Murottal
 
