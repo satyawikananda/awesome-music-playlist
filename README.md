@@ -81,6 +81,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | This Is Dream Theater | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs) | Spotify | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | - | Progressive Metal |
+| Heavy Metal | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe) | Spotify | [Angga](https://github.com/AnggaR96s) | - | Heavy Metal |
 
 ## Kawaii-metal
 
