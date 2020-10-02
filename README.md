@@ -128,6 +128,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 | Fourtwnty | [Spotify](https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc) | Spotify | [nahansans](https://github.com/nahansans) | Lagu-lagu Fourtwnty paling popular enak didengar cocok untuk nyantai | indie |
+| Lewis Capaldi | [Spotify](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | Spotify | Lewis Capaldi | Lagu penyemangat atau galau | Dengerin ya dan ingetin aku :) |
 
 
 ## Lo-Fi HipHop
@@ -247,6 +248,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/nahansans"><img src="https://avatars2.githubusercontent.com/u/66030265?v=4" width="120px;" alt=""/><br /><sub><b>Naufal Hanif</b></sub></a><br /><a href="#content-nahansans" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
     <td align="center"><a href="https://snowpkg.moedev.co"><img src="https://avatars0.githubusercontent.com/u/29944979?v=4" width="120px;" alt=""/><br /><sub><b>Iqbal Rifai</b></sub></a><br /><a href="#content-py7hon" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/pjyn-dzgn"><img src="https://avatars2.githubusercontent.com/u/72155599?s=460&u=6a27cc73286b38e3a44a66d74cd6fcd8f25d8012&v=4" width="120px;" alt=""/><br /><sub><b>PJYN DZGN</b></sub></a><br /><a href="#content-pjyn-dzgn" title="Content">🖋</a></td>
   </tr>
 </table>
 
