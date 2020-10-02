@@ -125,10 +125,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | J Fla | [YouTube](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
+| Acha Septriasa and Irwansyah full album best of the best) | [YouTube](https://www.youtube.com/watch?v=55V1ZK3Kamc) | YouTube | [safitri02](https://github.com/safitri02) | Acha Septriasa and Irwansyah full album best of the best | - |
 | I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
-| Fourtwnty | [Spotify](https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc) | Spotify | [nahansans](https://github.com/nahansans) | Lagu-lagu Fourtwnty paling popular enak didengar cocok untuk nyantai | indie |
-| Lewis Capaldi | [Spotify](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | Spotify | Lewis Capaldi | Lagu penyemangat atau galau | Dengerin ya dan ingetin aku :) |
 
 
 ## Lo-Fi HipHop
