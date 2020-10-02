@@ -147,6 +147,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 | Lagu Barat 2000an (Good Memories) | [YouTube](https://www.youtube.com/playlist?list=PLyAxYdv0v7kyi5u6T6kOnwZ9z1vb631iX) | YouTube | [alfidh02](https://github.com/alfidh02) | Lagu-lagu barat yang enak dan buat nostalgia dari tahun 2000an | - |
+| Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
 
 
 ## Lo-Fi HipHop
