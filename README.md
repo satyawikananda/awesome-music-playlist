@@ -157,6 +157,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Lofi Hip Hop Music To Chill / Relax / Study | [Spotify](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1) | Spotify  | [Lofi Fruits](https://lnk.to/lofi-everywhere) | - |
 | This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
 | lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
+| sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
 
 ## Instrumental
 
