@@ -324,7 +324,7 @@
       "contributions": [
         "content"
       ]
-    },
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true
