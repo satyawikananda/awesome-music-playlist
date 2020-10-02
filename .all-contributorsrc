@@ -333,7 +333,7 @@
       "contribution": [
         "content"
       ]
-    },
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true
