@@ -42,6 +42,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Metal](#metal)
 - [Kawaii-metal](#kawaii-metal)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Rock](#rock)
 - [R&B](#rb)
 - [Pop](#pop)
 - [Lo-Fi HipHop](#lo-fi-hiphop)
@@ -105,6 +106,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Love | [SoundCloud](https://soundcloud.com/airuei/sets/love) | SoundCloud | [Airuei](https://soundcloud.com/airuei) | - | MIX |
 | DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
+
+## Rock
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Oasis Vibes | [YouTube Music](https://music.youtube.com/playlist?list=PLAX10KNwrIBWdK5ddsFIEBFy7LqiLKXSy) | Youtube Music  | [Ananda Muhammad](https://github.com/handa26) | Live show/performance dari band Oasis, Liam Gallagher dan Noel Gallager | Britpop |
 
 ## R&B
 
