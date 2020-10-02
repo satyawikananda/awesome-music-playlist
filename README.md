@@ -57,6 +57,10 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | 🚀 On Fire Trap Beats | [Spotify](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - | - |
+| YOOKTRAP | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yooktrap) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | - |
+| YOOKBASS | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yookbass) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | BASS |
+| SLANDER REMIXES | [SoundCloud](https://soundcloud.com/slanderofficial/sets/remixes) | SoundCloud | [SLANDER](https://soundcloud.com/slanderofficial) | - | MIX |
+
 
 ## J-pop
 
@@ -97,6 +101,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Just Edm songs | [Spotify](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
 | Reverst | [Spotify](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
 | All KODOMOi's Tracks | [Spotify](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
+| Love | [SoundCloud](https://soundcloud.com/airuei/sets/love) | SoundCloud | [Airuei](https://soundcloud.com/airuei) | - | MIX |
+| DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
+| Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 
 ## R&B
 
@@ -129,7 +136,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | lofi hip hop music - beats to relax/study to | [YouTube](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
 | chilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
 | Lofi Hip Hop Music To Chill / Relax / Study | [Spotify](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1) | Spotify  | [Lofi Fruits](https://lnk.to/lofi-everywhere) | - |
-| This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | - |
+| This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
+| lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
 
 ## Instrumental
 
