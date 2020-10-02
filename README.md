@@ -42,6 +42,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Metal](#metal)
 - [Kawaii-metal](#kawaii-metal)
 - [Electronic Dance Music](#electronic-dance-music)
+- [Rock](#rock)
 - [R&B](#rb)
 - [Pop](#pop)
 - [Lo-Fi HipHop](#lo-fi-hiphop)
@@ -106,7 +107,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 
-## Rock, Britpop
+## Rock
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
