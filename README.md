@@ -49,6 +49,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Podcast](#podcast)
 - [Murottal](#murottal)
 - [Soul](#soul)
+- [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
 
 ## Trap
@@ -165,6 +166,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | Best of the blessed | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f) | Spotify  | [Ryan](https://github.com/Ryzenv9) | - | - |
+
+## Rap
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- |-------------- | -------- | ------- | ------- |
+| It's a Dad Thing 2 | [https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
 
 ## Kontributor ✨
 
