@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -256,6 +256,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://snowpkg.moedev.co"><img src="https://avatars0.githubusercontent.com/u/29944979?v=4" width="120px;" alt=""/><br /><sub><b>Iqbal Rifai</b></sub></a><br /><a href="#content-py7hon" title="Content">🖋</a></td>
     <td align="center"><a href="http://ini.space/PJYN_DZGN"><img src="https://avatars1.githubusercontent.com/u/72155599?v=4" width="120px;" alt=""/><br /><sub><b>PJYN DZGN</b></sub></a><br /><a href="#content-pjyn-dzgn" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/safitri02"><img src="https://avatars2.githubusercontent.com/u/48701660?v=4" width="120px;" alt=""/><br /><sub><b>Safitri</b></sub></a><br /><a href="#content-safitri02" title="Content">🖋</a></td>
+    <td align="center"><a href="https://anandamuhammad.space/"><img src="https://avatars3.githubusercontent.com/u/39816224?v=4" width="120px;" alt=""/><br /><sub><b>Ananda Muhammad Muthaqin</b></sub></a><br /><a href="#content-handa26" title="Content">🖋</a></td>
   </tr>
 </table>
 
