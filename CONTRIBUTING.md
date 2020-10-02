@@ -1,6 +1,6 @@
 # Panduan Kontribusi
 
-1. Kalian bisa menambahkan playlist kesukaan kalian disini entah itu dari spotify, youtube atau dimanapun.
+1. Kalian bisa menambahkan playlist kesukaan kalian disini entah itu dari spotify, youtube atau dimanapun, dan bukan satu lagu!. (Kecuali lagu tersebut didalamnya ada beberapa kumpulan lagu yang sudah dijadikan satu).
 2. Periksalah kembali perubahan atau tambahan yang kalian sudah lakukan sebelum melakukan Pull Request, usahakan jangan sampai ada yang terduplikat.
 3. Pastikan format kontribusi sudah sesuai.
 4. Usahakan tidak boleh ada yang salah penulisan atau pengetikan (typo).
