@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -274,6 +274,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   <tr>
     <td align="center"><a href="http://kry9ton.tech"><img src="https://avatars1.githubusercontent.com/u/44697929?v=4" width="120px;" alt=""/><br /><sub><b>Dhimas Bagus Prayoga</b></sub></a><br /><a href="#content-Kry9toN" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/divetri"><img src="https://avatars0.githubusercontent.com/u/54519415?v=4" width="120px;" alt=""/><br /><sub><b>Divetri Ayu Rahmawati</b></sub></a><br /><a href="#content-divetri" title="Content">🖋</a></td>
+    <td align="center"><a href="http://anthonylee.asia"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="120px;" alt=""/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
   </tr>
 </table>
 
