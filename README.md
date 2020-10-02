@@ -95,7 +95,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Just Edm songs | [Spotify](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
-| Reverst | [Spotify](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
+| Happy Hits 2020 😄 Happy EDM | [Spotify](https://open.spotify.com/playlist/10r5uRJGNzE4XZ4H2X15Nf) | Spotify | [AESTHETE](https://open.spotify.com/user/uuo0uc1mv6nr0fuuyfnf82iy4) | Happy Hits will boost your mood! Get a Daily lift with Happy EDM Hits. You deserve to be Happy | - |
 | All KODOMOi's Tracks | [Spotify](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
 
 ## R&B
