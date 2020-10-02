@@ -227,9 +227,6 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://angga.studio"><img src="https://avatars1.githubusercontent.com/u/32284419?v=4" width="120px;" alt=""/><br /><sub><b>Angga R.</b></sub></a><br /><a href="#content-AnggaR96s" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Fajaru1503"><img src="https://avatars1.githubusercontent.com/u/44464695?v=4" width="120px;" alt=""/><br /><sub><b>Bhirawa "Fajaru" Dewangga</b></sub></a><br /><a href="#content-Fajaru1503" title="Content">🖋</a></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/kucengorenji"><img src="https://avatars3.githubusercontent.com/u/42394709?v=4" width="120px;" alt=""/><br /><sub><b>cat422</b></sub></a><br /><a href="#content-kucengorenji" title="Content">🖋</a></td>    
-  </tr>
 </table>
 
 <!-- markdownlint-enable -->
