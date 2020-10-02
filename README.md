@@ -177,6 +177,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
 | Menjadi Manusia | [Spotify](https://open.spotify.com/show/3czvHT8ALg4yRSSTmZvPOe?si=057YYEeZS6yXlRzk2xDEUw) | Spotify | Menjadi Manusia | Kehidupan | Menjadi Manusia adalah sebuah social-platform untuk mereka yang ingin berbagi & mendengar cerita-cerita tentang kehidupan dari berbagai sudut pandang, dan diharapkan mampu menjadi sebuah tangga untuk mendapatkan setitik harapan bagi mereka yang memiliki persoalan-persoalan dalam kehidupan. |
 | Muzammil | [Spotify](https://open.spotify.com/show/6SpdHJQcjLyMaG8Q5Bzksv?si=mkWSg48tTYGxrSr4-u5jwQ) | Spotify | Ojal | Murottal | - |
+| LUTALK | [Spotify](https://open.spotify.com/show/2Pkv4GbecCiPFp6pf1wXf5?si=keczsKRxRHaQ8t4MfzKypw) | Spotify | Luthfi Suryanda Atmojo | Pop Kultur | Membahas anime, manga, musik, dan berbagai macam hal terkait pop kultur secara mendalam |
+| Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
 
 ## Murottal
 
