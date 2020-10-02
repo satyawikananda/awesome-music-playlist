@@ -38,6 +38,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 - [Trap](#trap)
 - [J-pop](#j-pop)
+- [K-pop](#k-pop)
 - [Eurobeat](#eurobeat)
 - [Metal](#metal)
 - [Kawaii-metal](#kawaii-metal)
@@ -77,6 +78,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Naruto - Openings & Endings | [Spotify](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - |
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - |
 | Human Bloom | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_n_iIVg_L_1CE3LZxu8S80gsqtX5Mx1Hyw) | Youtube | [komangss](https://github.com/komangss) | - |
+## K-pop
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- |-------------- | -------- | ------- | ------- |
+| 한국 노래 | [Spotify](https://open.spotify.com/playlist/3z5iDf37a7qsOC0LfdwuwF) | Spotify | [Anthony Lee (Mbahmo)](https://github.com/mbahmo) | - |
 
 ## Eurobeat
 
