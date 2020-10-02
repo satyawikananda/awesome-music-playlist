@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -39,6 +39,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Trap](#trap)
 - [J-pop](#j-pop)
 - [Eurobeat](#eurobeat)
+- [Metal](#metal)
 - [Kawaii-metal](#kawaii-metal)
 - [Electronic Dance Music](#electronic-dance-music)
 - [R&B](#rb)
@@ -75,11 +76,17 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ----------- | -------- | ---------- | ---------- | -------- |
 | Tofu Delivery BGM | [YouTube](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
 
+## Metal
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| This Is Dream Theater | [https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs](https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs) | Spotify | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | - | Progressive Metal |
+
 ## Kawaii-metal
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | ------------- | ------------- | -------- | ------- | ------- |
 | Legend Metal Galaxy | [Spotify](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
+| BABYMETAL Favorite | [Spotify](https://open.spotify.com/playlist/2P7YxzvrBfJzkAknfKk6zb) | Spotify | [Harry](https://github.com/owl4ce) | BABYMETAL, METAL RESISTANCE, METAL GALAXY |
 
 ## Electronic Dance Music
 
@@ -87,6 +94,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Just Edm songs | [Spotify](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
 | Reverst | [Wish U](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
+| All KODOMOi's Tracks | [All KODOMOi's Tracks](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
 
 ## R&B
 
@@ -107,6 +115,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | J Fla | [YouTube](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
+| I Love Acoustic | [https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 
 
@@ -117,12 +126,14 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | lofi hip hop music - beats to relax/study to | [YouTube](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
 | chilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
 | Lofi Hip Hop Music To Chill / Relax / Study | [Spotify](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1) | Spotify  | [Lofi Fruits](https://lnk.to/lofi-everywhere) | - |
+| This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | - |
 
 ## Instrumental
 
 | Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
 | ------------- | ------------- | -------- | ------- | --------- |
 | This is Yiruma | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
+| Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
 
 ## Podcast
 
@@ -203,6 +214,8 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://fb.com/CdrScNET89"><img src="https://avatars3.githubusercontent.com/u/52048022?v=4" width="120px;" alt=""/><br /><sub><b>Dwi Candra Permana</b></sub></a><br /><a href="#content-dwichan0905" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/raihan-muhammad"><img src="https://avatars3.githubusercontent.com/u/51007619?v=4" width="120px;" alt=""/><br /><sub><b>Raihan Muhammad</b></sub></a><br /><a href="#content-raihan-muhammad" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ryzenv9"><img src="https://avatars2.githubusercontent.com/u/71984542?v=4" width="120px;" alt=""/><br /><sub><b>Ryzenv9</b></sub></a><br /><a href="#content-Ryzenv9" title="Content">🖋</a></td>
+    <td align="center"><a href="http://0xlt.me/id"><img src="https://avatars0.githubusercontent.com/u/53987136?v=4" width="120px;" alt=""/><br /><sub><b>Harry</b></sub></a><br /><a href="#content-owl4ce" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/noviyana12"><img src="https://avatars3.githubusercontent.com/u/54648155?v=4" width="120px;" alt=""/><br /><sub><b>noviyana12</b></sub></a><br /><a href="#content-noviyana12" title="Content">🖋</a></td>
   </tr>
 </table>
 

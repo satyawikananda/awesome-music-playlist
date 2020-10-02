@@ -288,6 +288,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "owl4ce",
+      "name": "Harry",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/53987136?v=4",
+      "profile": "http://0xlt.me/id",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "noviyana12",
+      "name": "noviyana12",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54648155?v=4",
+      "profile": "https://github.com/noviyana12",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
