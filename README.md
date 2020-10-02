@@ -80,7 +80,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 ## Metal
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
-| This Is Dream Theater | [https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs](https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs) | Spotify | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | - | Progressive Metal |
+| This Is Dream Theater | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs) | Spotify | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | - | Progressive Metal |
 
 ## Kawaii-metal
 
@@ -94,8 +94,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Just Edm songs | [Spotify](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
-| Reverst | [Wish U](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
-| All KODOMOi's Tracks | [All KODOMOi's Tracks](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
+| Reverst | [Spotify](https://open.spotify.com/track/1CxFxXHKMzcqlhD2y9RMXQ) | Spotify | [Reverst](https://open.spotify.com/artist/0BqPWnfT5ONmFQC5XLw3lu) | Underrated Artist :) | - |
+| All KODOMOi's Tracks | [Spotify](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
 
 ## R&B
 
@@ -116,9 +116,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | J Fla | [YouTube](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
-| I Love Acoustic | [https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
+| I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
-| Fourtwnty | [https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc](https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc) | Spotify | [nahansans](https://github.com/nahansans) | Lagu-lagu Fourtwnty paling popular enak didengar cocok untuk nyantai | indie |
+| Fourtwnty | [Spotify](https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc) | Spotify | [nahansans](https://github.com/nahansans) | Lagu-lagu Fourtwnty paling popular enak didengar cocok untuk nyantai | indie |
 
 
 ## Lo-Fi HipHop
@@ -172,7 +172,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
-| It's a Dad Thing 2 | [https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
+| It's a Dad Thing 2 | [YouTube](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
 
 ## Kontributor ✨
 
