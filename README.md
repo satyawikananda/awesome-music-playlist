@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -226,6 +226,9 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/noviyana12"><img src="https://avatars3.githubusercontent.com/u/54648155?v=4" width="120px;" alt=""/><br /><sub><b>noviyana12</b></sub></a><br /><a href="#content-noviyana12" title="Content">🖋</a></td>
     <td align="center"><a href="https://angga.studio"><img src="https://avatars1.githubusercontent.com/u/32284419?v=4" width="120px;" alt=""/><br /><sub><b>Angga R.</b></sub></a><br /><a href="#content-AnggaR96s" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Fajaru1503"><img src="https://avatars1.githubusercontent.com/u/44464695?v=4" width="120px;" alt=""/><br /><sub><b>Bhirawa "Fajaru" Dewangga</b></sub></a><br /><a href="#content-Fajaru1503" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nahansans"><img src="https://avatars2.githubusercontent.com/u/66030265?v=4" width="120px;" alt=""/><br /><sub><b>Naufal Hanif</b></sub></a><br /><a href="#content-nahansans" title="Content">🖋</a></td>
   </tr>
 </table>
 
