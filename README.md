@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -260,6 +260,9 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/safitri02"><img src="https://avatars2.githubusercontent.com/u/48701660?v=4" width="120px;" alt=""/><br /><sub><b>Safitri</b></sub></a><br /><a href="#content-safitri02" title="Content">🖋</a></td>
     <td align="center"><a href="https://anandamuhammad.space/"><img src="https://avatars3.githubusercontent.com/u/39816224?v=4" width="120px;" alt=""/><br /><sub><b>Ananda Muhammad Muthaqin</b></sub></a><br /><a href="#content-handa26" title="Content">🖋</a></td>
     <td align="center"><a href="http://antondektra201.epizy.com"><img src="https://avatars3.githubusercontent.com/u/46590632?v=4" width="120px;" alt=""/><br /><sub><b>Antonio Komang Yudistira</b></sub></a><br /><a href="#content-komangss" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://kry9ton.tech"><img src="https://avatars1.githubusercontent.com/u/44697929?v=4" width="120px;" alt=""/><br /><sub><b>Dhimas Bagus Prayoga</b></sub></a><br /><a href="#content-Kry9toN" title="Content">🖋</a></td>
   </tr>
 </table>
 
