@@ -51,6 +51,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Soul](#soul)
 - [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
+- [Campursari](#campursari)
 
 ## Trap
 
@@ -175,6 +176,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- |-------------- | -------- | ------- | ------- |
 | It's a Dad Thing 2 | [YouTube](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
 
+## Campursari
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
+
 ## Kontributor ✨
 
 Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
@@ -230,6 +237,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/nahansans"><img src="https://avatars2.githubusercontent.com/u/66030265?v=4" width="120px;" alt=""/><br /><sub><b>Naufal Hanif</b></sub></a><br /><a href="#content-nahansans" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars1.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
 </table>
 
