@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -237,6 +237,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/nahansans"><img src="https://avatars2.githubusercontent.com/u/66030265?v=4" width="120px;" alt=""/><br /><sub><b>Naufal Hanif</b></sub></a><br /><a href="#content-nahansans" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars3.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
 </table>
 
