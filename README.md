@@ -128,6 +128,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 | Fourtwnty | [Spotify](https://open.spotify.com/playlist/6RYN5jpUGaKDq26gqJOWLc) | Spotify | [nahansans](https://github.com/nahansans) | Lagu-lagu Fourtwnty paling popular enak didengar cocok untuk nyantai | indie |
+| Lewis Capaldi | [Spotify](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | Spotify | Lewis Capaldi | Lagu penyemangat atau galau | Dengerin ya dan ingetin aku :) |
 
 
 ## Lo-Fi HipHop
