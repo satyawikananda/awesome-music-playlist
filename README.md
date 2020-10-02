@@ -274,7 +274,6 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://kry9ton.tech"><img src="https://avatars1.githubusercontent.com/u/44697929?v=4" width="120px;" alt=""/><br /><sub><b>Dhimas Bagus Prayoga</b></sub></a><br /><a href="#content-Kry9toN" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/divetri"><img src="https://avatars0.githubusercontent.com/u/54519415?v=4" width="120px;" alt=""/><br /><sub><b>Divetri Ayu Rahmawati</b></sub></a><br /><a href="#content-divetri" title="Content">🖋</a></td>
     <td align="center"><a href="http://anthonylee.asia"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="120px;" alt=""/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
-    <td align="center"><a href="http://github.com/hafizcode02"><img src="https://avatars1.githubusercontent.com/u/53365353?v=4" width="120px;" alt=""/><br /><sub><b>Hafiz Caniago</b></sub></a><br /><a href="#content-hafizcode02" title="Content">🖋</a></td>
   </tr>
 </table>
 
