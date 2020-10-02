@@ -237,7 +237,6 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/nahansans"><img src="https://avatars2.githubusercontent.com/u/66030265?v=4" width="120px;" alt=""/><br /><sub><b>Naufal Hanif</b></sub></a><br /><a href="#content-nahansans" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/tiyang-jawi"><img src="https://avatars1.githubusercontent.com/u/66328103?v=4" width="120px;" alt=""/><br /><sub><b>Tiyang Jawi</b></sub></a><br /><a href="#content-tiyang-jawi" title="Content">🖋</a></td>
   </tr>
 </table>
 
