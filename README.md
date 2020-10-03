@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -284,6 +284,9 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://lab-ekickx.my.id"><img src="https://avatars1.githubusercontent.com/u/26477782?v=4" width="120px;" alt=""/><br /><sub><b>Ghani Rafif</b></sub></a><br /><a href="#content-ekickx" title="Content">🖋</a></td>
     <td align="center"><a href="https://wonderwoman.team"><img src="https://avatars0.githubusercontent.com/u/35220738?v=4" width="120px;" alt=""/><br /><sub><b>iNath</b></sub></a><br /><a href="#content-nat9h" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/alfidh02"><img src="https://avatars3.githubusercontent.com/u/58141964?v=4" width="120px;" alt=""/><br /><sub><b>Alfi Dharmawan</b></sub></a><br /><a href="#content-alfidh02" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://alihgae.com"><img src="https://avatars3.githubusercontent.com/u/33476707?v=4" width="120px;" alt=""/><br /><sub><b>Akhmad Rizki Prayoga</b></sub></a><br /><a href="#content-akhmadrizki" title="Content">🖋</a></td>
   </tr>
 </table>
 
