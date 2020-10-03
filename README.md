@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -293,6 +293,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   <tr>
     <td align="center"><a href="http://alihgae.com"><img src="https://avatars3.githubusercontent.com/u/33476707?v=4" width="120px;" alt=""/><br /><sub><b>Akhmad Rizki Prayoga</b></sub></a><br /><a href="#content-akhmadrizki" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/suryabu26"><img src="https://avatars0.githubusercontent.com/u/58099117?v=4" width="120px;" alt=""/><br /><sub><b>Gede Surya Buana Cakra</b></sub></a><br /><a href="#content-suryabu26" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="120px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
   </tr>
 </table>
 
