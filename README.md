@@ -80,6 +80,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Human Bloom | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_n_iIVg_L_1CE3LZxu8S80gsqtX5Mx1Hyw) | Youtube | [komangss](https://github.com/komangss) | - |
 | J-Pop + My Playlist | [Spotify](https://open.spotify.com/playlist/0Iqws5QqjrQGDxPPzNpAbl?si=CYGBvIt3T2-tZs-QuG_emA) | Spotify | [hafizcode02](https://github.com/hafizcode02) | - |
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | 
+| Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | 
 ## K-pop
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
@@ -91,6 +92,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ----------- | -------- | ---------- | ---------- | -------- |
 | Tofu Delivery BGM | [YouTube](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
+| Turbo Eurobeat Remix | [YouTube](https://www.youtube.com/playlist?list=UUus8EVJ7Oc9zINhs-fg8l1Q) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | Your favorite anime song or else, but eurobeat | - |
 
 ## Metal
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
@@ -168,6 +170,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | ------------- | ------------- | -------- | ------- | --------- |
 | This is Yiruma | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
+| Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
+| The Shiro Sagisu Symphony | [Youtube](https://www.youtube.com/watch?v=Kc6Gg24MXOI) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | That one anime OST that plays when something goes bad, mostly used in Bleach, Evangelion, Berserk, and Magi |
 
 ## Podcast
 
