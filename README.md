@@ -175,6 +175,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
 | Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
 | The Shiro Sagisu Symphony | [Youtube](https://www.youtube.com/watch?v=Kc6Gg24MXOI) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | That one anime OST that plays when something goes bad, mostly used in Bleach, Evangelion, Berserk, and Magi |
+| This is Mozart | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8qqIDAkKiQg) | Spotify | [Rigen Maulana](https://github.com/rygenzx) | - |
 
 ## Podcast
 
