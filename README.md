@@ -81,6 +81,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | J-Pop + My Playlist | [Spotify](https://open.spotify.com/playlist/0Iqws5QqjrQGDxPPzNpAbl?si=CYGBvIt3T2-tZs-QuG_emA) | Spotify | [hafizcode02](https://github.com/hafizcode02) | - |
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | 
 | Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | 
+| Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | 
+
 ## K-pop
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
@@ -296,6 +298,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/suryabu26"><img src="https://avatars0.githubusercontent.com/u/58099117?v=4" width="120px;" alt=""/><br /><sub><b>Gede Surya Buana Cakra</b></sub></a><br /><a href="#content-suryabu26" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="120px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ibrahimsyah"><img src="https://avatars2.githubusercontent.com/u/7591715?v=4" width="120px;" alt=""/><br /><sub><b>Ibrahimsyah Zairussalam</b></sub></a><br /><a href="#content-Ibrahimsyah" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/kouseina"><img src="https://avatars3.githubusercontent.com/u/56005648?v=4" width="120px;" alt=""/><br /><sub><b>Daffa Putera Kouseina</b></sub></a><br /><a href="#content-kouseina" title="Content">🖋</a></td>
   </tr>
 </table>
 
