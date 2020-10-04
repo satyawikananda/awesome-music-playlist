@@ -54,6 +54,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
 - [Campursari](#campursari)
+- [Dubstep](#dubstep)
 
 ## Trap
 
@@ -299,6 +300,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="120px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ibrahimsyah"><img src="https://avatars2.githubusercontent.com/u/7591715?v=4" width="120px;" alt=""/><br /><sub><b>Ibrahimsyah Zairussalam</b></sub></a><br /><a href="#content-Ibrahimsyah" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kouseina"><img src="https://avatars2.githubusercontent.com/u/56005648?v=4" width="120px;" alt=""/><br /><sub><b>Daffa Putera Kouseina</b></sub></a><br /><a href="#content-kouseina" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Reihen-afk"><img src="https://avatars3.githubusercontent.com/u/68687179?v=4" width="120px;" alt=""/><br /><sub><b>Ryan Londhut Nathaniel</b></sub></a><br /><a href="#content-Reihen-afk" title="Content">🖋</a></td>
   </tr>
 </table>
 
