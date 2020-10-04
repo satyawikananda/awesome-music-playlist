@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -300,6 +300,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="120px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ibrahimsyah"><img src="https://avatars2.githubusercontent.com/u/7591715?v=4" width="120px;" alt=""/><br /><sub><b>Ibrahimsyah Zairussalam</b></sub></a><br /><a href="#content-Ibrahimsyah" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kouseina"><img src="https://avatars2.githubusercontent.com/u/56005648?v=4" width="120px;" alt=""/><br /><sub><b>Daffa Putera Kouseina</b></sub></a><br /><a href="#content-kouseina" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/rygenzx"><img src="https://avatars2.githubusercontent.com/u/63197023?v=4" width="120px;" alt=""/><br /><sub><b>Rigen Maulana</b></sub></a><br /><a href="#content-rygenzx" title="Content">🖋</a></td>
   </tr>
 </table>
 
