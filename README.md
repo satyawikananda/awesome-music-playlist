@@ -139,11 +139,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Sans | [Spotify]https://open.spotify.com/playlist/1dINy55zfy242ZYz4tOlQ3) | Spotify  | [Naufal Hanif](https://github.com/nahansans) | Lagu lagu indie santai | Indie |
 | Break My Heart Again | [YouTube](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
 | KANGEN BAND | [YouTube](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
 | Payung Teduh | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
 | Teman Kerja | [Spotify](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
-| Armada Band | [YouTube](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
+ Armada Band | [YouTube](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
 | Alexandra Porat Cover | [YouTube](https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | J Fla | [YouTube](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
