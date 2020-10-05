@@ -82,6 +82,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | 
 | Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | 
 | Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | 
+| Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
 
 ## K-pop
 
