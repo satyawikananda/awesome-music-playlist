@@ -176,6 +176,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
 | The Shiro Sagisu Symphony | [Youtube](https://www.youtube.com/watch?v=Kc6Gg24MXOI) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | That one anime OST that plays when something goes bad, mostly used in Bleach, Evangelion, Berserk, and Magi |
 | This is Mozart | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8qqIDAkKiQg) | Spotify | [Rigen Maulana](https://github.com/rygenzx) | - |
+| Joe Hisaishi in Budokan - Studio Ghibli 25 Years Concert | [Youtube](https://youtu.be/Gpr_ISfWFsk) | Youtube | [Akbarsn](https://github.com/akbarsn) | Amazing Ghibli Concert by Joe Hisaishi. This playlist contain few OST in Ghibli movies like Howl Moving Castle, Porco Rosso, and many more |
+| Original Works | [Youtube](https://www.youtube.com/playlist?list=PLK2o01EsuMU9RsAgCO07RBYOHZzdo2rtY) | Youtube | [Rush Garcia](https://github.com/akbarsn) | Amazing cover from EDM music to instrumental |
 
 ## Podcast
 
