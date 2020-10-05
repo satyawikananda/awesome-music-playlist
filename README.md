@@ -117,6 +117,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
 | I Love Acoustic | [https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
+| Lagu Hits Indonesia (2007-2009) | [YouTube Music](https://music.youtube.com/playlist?list=PLp1t9lGq827m-YnwRcCz-a5xyb74D59yg) | YouTube Music| [bangadam.dev](https://github.com/bangadam.dev) | Lagu-lagu Hits Indonesia Jaman SMP (2007 -2009) | - |
 
 
 ## Lo-Fi HipHop
@@ -216,6 +217,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/Ryzenv9"><img src="https://avatars2.githubusercontent.com/u/71984542?v=4" width="120px;" alt=""/><br /><sub><b>Ryzenv9</b></sub></a><br /><a href="#content-Ryzenv9" title="Content">🖋</a></td>
     <td align="center"><a href="http://0xlt.me/id"><img src="https://avatars0.githubusercontent.com/u/53987136?v=4" width="120px;" alt=""/><br /><sub><b>Harry</b></sub></a><br /><a href="#content-owl4ce" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/noviyana12"><img src="https://avatars3.githubusercontent.com/u/54648155?v=4" width="120px;" alt=""/><br /><sub><b>noviyana12</b></sub></a><br /><a href="#content-noviyana12" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/bangadam.dev"><img src="https://avatars3.githubusercontent.com/u/18278184?v=4" width="120px;" alt=""/><br /><sub><b>bangadam.dev</b></sub></a><br /><a href="#content-noviyana12" title="Content">🖋</a></td>
   </tr>
 </table>
 
