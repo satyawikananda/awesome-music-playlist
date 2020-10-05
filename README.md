@@ -89,6 +89,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
 | 한국 노래 | [Spotify](https://open.spotify.com/playlist/3z5iDf37a7qsOC0LfdwuwF) | Spotify | [Anthony Lee (Mbahmo)](https://github.com/mbahmo) | List of K-pop Songs that was my favorite (Bigbang, Red Velvet, Etc) |
+| This Is BLACKPINK | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA) | Spotify | [Wahyu Setyawan (wahyustwn)](https://github.com/wahyustwn) | List of BLACKPINK Songs |
 
 ## Eurobeat
 
@@ -311,6 +312,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
   <tr>
     <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="120px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Reihen-afk"><img src="https://avatars2.githubusercontent.com/u/68687179?v=4" width="120px;" alt=""/><br /><sub><b>Ryan Nathaniel</b></sub></a><br /><a href="#content-Reihen-afk" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/wahyustwn"><img src="https://avatars0.githubusercontent.com/u/70325864?v=4" width="120px;" alt=""/><br /><sub><b>Wahyu Setyawan</b></sub></a><br /><a href="#content-wahyustwn" title="Content">🖋</a></td>
   </tr>
 </table>
 
