@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -36,10 +36,6 @@ Jika ada playlist yang bertipe podcast
 
 Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
 
-- [Your Fav Playlist 🎧](#your-fav-playlist-)
-- [Pendahuluan](#pendahuluan)
-- [Panduan kontribusi](#panduan-kontribusi)
-- [Genre playlist](#genre-playlist)
 - [Trap](#trap)
 - [J-pop](#j-pop)
 - [K-pop](#k-pop)
@@ -58,7 +54,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Epic & Melodic](#epic--melodic)
 - [Rap](#rap)
 - [Campursari](#campursari)
-- [Kontributor ✨](#kontributor-)
+- [Dangdut](#dangdut)
 
 ## Trap
 
@@ -135,7 +131,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Oasis Vibes | [YouTube Music](https://music.youtube.com/playlist?list=PLAX10KNwrIBWdK5ddsFIEBFy7LqiLKXSy) | Youtube Music  | [Ananda Muhammad](https://github.com/handa26) | Live show/performance dari band Oasis, Liam Gallagher dan Noel Gallager | Britpop |
-
+| This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify       | PRAMADITYA | Pengiring ngoding setiap hari. | - |
 
 ## R&B
 
@@ -235,6 +231,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
 
+## Dangdut
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Best "HAPPY ASMARA" Milady Record | [YouTube](https://www.youtube.com/playlist?list=PLfWz4B_Gd_uRhtTtPGBfFwvINgBwkoZ_0) | YouTube | [Milady Record Official](https://www.youtube.com/c/MiladyRecordOfficial) | - | - |
+| Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
+
 ## Kontributor ✨
 
 Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
@@ -319,6 +322,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="120px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Reihen-afk"><img src="https://avatars2.githubusercontent.com/u/68687179?v=4" width="120px;" alt=""/><br /><sub><b>Ryan Nathaniel</b></sub></a><br /><a href="#content-Reihen-afk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/wahyustwn"><img src="https://avatars0.githubusercontent.com/u/70325864?v=4" width="120px;" alt=""/><br /><sub><b>Wahyu Setyawan</b></sub></a><br /><a href="#content-wahyustwn" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/GustiawanFN"><img src="https://avatars1.githubusercontent.com/u/16741562?v=4" width="120px;" alt=""/><br /><sub><b>Fajar Nanda Gustiawan</b></sub></a><br /><a href="#content-GustiawanFN" title="Content">🖋</a></td>
   </tr>
 </table>
 
