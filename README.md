@@ -51,8 +51,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Podcast](#podcast)
 - [Murottal](#murottal)
 - [Soul](#soul)
-- [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
+- [Rap](#rap)
 - [Campursari](#campursari)
 - [Dangdut](#dangdut)
 
@@ -124,6 +124,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 | The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
+| EDM Song | [YouTube](https://www.youtube.com/watch?v=yg6Y_1_DJyI&list=PL3oW2tjiIxvQ60uIjLdo7vrUe4ukSpbKl) | YouTube | [Frits Sasia](https://github.com/fritssasia) | - | - |
 
 ## Rock
 
