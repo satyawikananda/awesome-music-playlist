@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -321,6 +321,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="120px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Reihen-afk"><img src="https://avatars2.githubusercontent.com/u/68687179?v=4" width="120px;" alt=""/><br /><sub><b>Ryan Nathaniel</b></sub></a><br /><a href="#content-Reihen-afk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/wahyustwn"><img src="https://avatars0.githubusercontent.com/u/70325864?v=4" width="120px;" alt=""/><br /><sub><b>Wahyu Setyawan</b></sub></a><br /><a href="#content-wahyustwn" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/GustiawanFN"><img src="https://avatars1.githubusercontent.com/u/16741562?v=4" width="120px;" alt=""/><br /><sub><b>Fajar Nanda Gustiawan</b></sub></a><br /><a href="#content-GustiawanFN" title="Content">🖋</a></td>
   </tr>
 </table>
 
