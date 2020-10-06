@@ -54,6 +54,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
 - [Campursari](#campursari)
+- [Dangdut](#dangdut)
 
 ## Trap
 
@@ -228,6 +229,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
+
+## Dangdut
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Best "HAPPY ASMARA" Milady Record | [YouTube](https://www.youtube.com/playlist?list=PLfWz4B_Gd_uRhtTtPGBfFwvINgBwkoZ_0) | YouTube | [Milady Record Official](https://www.youtube.com/c/MiladyRecordOfficial) | - | - |
+| Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
 
 ## Kontributor ✨
 
