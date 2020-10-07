@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -51,9 +51,11 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Podcast](#podcast)
 - [Murottal](#murottal)
 - [Soul](#soul)
-- [Rap](#rap)
 - [Epic & Melodic](#epic--melodic)
+- [Rap](#rap)
 - [Campursari](#campursari)
+- [Dangdut](#dangdut)
+- [DJ Indo](#dj-indo)
 
 ## Trap
 
@@ -82,12 +84,14 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | 
 | Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | 
 | Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | 
+| Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
 
 ## K-pop
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
 | 한국 노래 | [Spotify](https://open.spotify.com/playlist/3z5iDf37a7qsOC0LfdwuwF) | Spotify | [Anthony Lee (Mbahmo)](https://github.com/mbahmo) | List of K-pop Songs that was my favorite (Bigbang, Red Velvet, Etc) |
+| This Is BLACKPINK | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA) | Spotify | [Wahyu Setyawan (wahyustwn)](https://github.com/wahyustwn) | List of BLACKPINK Songs |
 
 ## Eurobeat
 
@@ -121,13 +125,14 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 | The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
+| EDM Song | [YouTube](https://www.youtube.com/watch?v=yg6Y_1_DJyI&list=PL3oW2tjiIxvQ60uIjLdo7vrUe4ukSpbKl) | YouTube | [Frits Sasia](https://github.com/fritssasia) | - | - |
 
 ## Rock
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Oasis Vibes | [YouTube Music](https://music.youtube.com/playlist?list=PLAX10KNwrIBWdK5ddsFIEBFy7LqiLKXSy) | Youtube Music  | [Ananda Muhammad](https://github.com/handa26) | Live show/performance dari band Oasis, Liam Gallagher dan Noel Gallager | Britpop |
-
+| This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify       | PRAMADITYA | Pengiring ngoding setiap hari. | - |
 
 ## R&B
 
@@ -139,6 +144,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
+| Sans | [Spotify]https://open.spotify.com/playlist/1dINy55zfy242ZYz4tOlQ3) | Spotify  | [Naufal Hanif](https://github.com/nahansans) | Lagu lagu indie santai | Indie |
 | Break My Heart Again | [YouTube](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
 | KANGEN BAND | [YouTube](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
 | Payung Teduh | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
@@ -175,6 +181,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
 | Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
 | The Shiro Sagisu Symphony | [Youtube](https://www.youtube.com/watch?v=Kc6Gg24MXOI) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | That one anime OST that plays when something goes bad, mostly used in Bleach, Evangelion, Berserk, and Magi |
+| This is Mozart | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8qqIDAkKiQg) | Spotify | [Rigen Maulana](https://github.com/rygenzx) | - |
+| Joe Hisaishi in Budokan - Studio Ghibli 25 Years Concert | [Youtube](https://youtu.be/Gpr_ISfWFsk) | Youtube | [Akbarsn](https://github.com/akbarsn) | Amazing Ghibli Concert by Joe Hisaishi. This playlist contain few OST in Ghibli movies like Howl Moving Castle, Porco Rosso, and many more |
+| Original Works | [Youtube](https://www.youtube.com/playlist?list=PLK2o01EsuMU9RsAgCO07RBYOHZzdo2rtY) | Youtube | [Rush Garcia](https://github.com/akbarsn) | Amazing cover from EDM music to instrumental |
 
 ## Podcast
 
@@ -190,6 +199,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | LUTALK | [Spotify](https://open.spotify.com/show/2Pkv4GbecCiPFp6pf1wXf5?si=keczsKRxRHaQ8t4MfzKypw) | Spotify | Luthfi Suryanda Atmojo | Pop Kultur | Membahas anime, manga, musik, dan berbagai macam hal terkait pop kultur secara mendalam |
 | Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
 | Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
+| Teh atau kopi | [Spotify](https://open.spotify.com/show/5ixPRjtMnO92teoj5Vxbuf) | Spotify | [Hilman Ramadhan](https://github.com/hilmanski) | Kehidupan | Teh Atau Kopi adalah podcast berbahasa Indonesia yang membahas seputar masalah kehidupan sehari hari yang jarang dibicarkan. |
 
 ## Murottal
 
@@ -227,6 +237,13 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
 | DJ VIRAL TERBARU 2020 FULL BASS - Remix Terbaru 2020 | [YouTube](https://www.youtube.com/watch?v=a1Y3oq2O-Nw) | Youtube | [BABYGANG](https://www.youtube.com/channel/UChtm5MKE0sdhSPqH5ipTdfA) | - |
+
+## Dangdut
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Best "HAPPY ASMARA" Milady Record | [YouTube](https://www.youtube.com/playlist?list=PLfWz4B_Gd_uRhtTtPGBfFwvINgBwkoZ_0) | YouTube | [Milady Record Official](https://www.youtube.com/c/MiladyRecordOfficial) | - | - |
+| Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
 
 ## Kontributor ✨
 
@@ -305,6 +322,15 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/AdrianEdy"><img src="https://avatars2.githubusercontent.com/u/43314879?v=4" width="120px;" alt=""/><br /><sub><b>Adrian Edy Pratama</b></sub></a><br /><a href="#content-AdrianEdy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ibrahimsyah"><img src="https://avatars2.githubusercontent.com/u/7591715?v=4" width="120px;" alt=""/><br /><sub><b>Ibrahimsyah Zairussalam</b></sub></a><br /><a href="#content-Ibrahimsyah" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kouseina"><img src="https://avatars2.githubusercontent.com/u/56005648?v=4" width="120px;" alt=""/><br /><sub><b>Daffa Putera Kouseina</b></sub></a><br /><a href="#content-kouseina" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/rygenzx"><img src="https://avatars2.githubusercontent.com/u/63197023?v=4" width="120px;" alt=""/><br /><sub><b>Rigen Maulana</b></sub></a><br /><a href="#content-rygenzx" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Akbarsn"><img src="https://avatars2.githubusercontent.com/u/45342078?v=4" width="120px;" alt=""/><br /><sub><b>Akbarsn</b></sub></a><br /><a href="#content-Akbarsn" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ini.space/hadyd"><img src="https://avatars0.githubusercontent.com/u/62197750?v=4" width="120px;" alt=""/><br /><sub><b>Anur Al Hadyd</b></sub></a><br /><a href="#content-hadyd" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Reihen-afk"><img src="https://avatars2.githubusercontent.com/u/68687179?v=4" width="120px;" alt=""/><br /><sub><b>Ryan Nathaniel</b></sub></a><br /><a href="#content-Reihen-afk" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/wahyustwn"><img src="https://avatars0.githubusercontent.com/u/70325864?v=4" width="120px;" alt=""/><br /><sub><b>Wahyu Setyawan</b></sub></a><br /><a href="#content-wahyustwn" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/GustiawanFN"><img src="https://avatars1.githubusercontent.com/u/16741562?v=4" width="120px;" alt=""/><br /><sub><b>Fajar Nanda Gustiawan</b></sub></a><br /><a href="#content-GustiawanFN" title="Content">🖋</a></td>
+    <td align="center"><a href="http://fritssasia.github.io/"><img src="https://avatars2.githubusercontent.com/u/50069713?v=4" width="120px;" alt=""/><br /><sub><b>Frits Sasia</b></sub></a><br /><a href="#content-fritssasia" title="Content">🖋</a></td>
   </tr>
 </table>
 
