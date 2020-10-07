@@ -558,6 +558,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "nazri07",
+      "name": "Muhammad Nazri Asy'Ary",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34557386?v=4",
+      "profile": "http://mnazria.herokuapp.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
