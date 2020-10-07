@@ -226,8 +226,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
-| DJ VIRAL TERBARU 2020 FULL BASS - Remix Terbaru 2020 | [YouTube](https://www.youtube.com/watch?v=a1Y3oq2O-Nw) | Youtube | [BABYGANG
-](https://www.youtube.com/channel/UChtm5MKE0sdhSPqH5ipTdfA) | - |
+| DJ VIRAL TERBARU 2020 FULL BASS - Remix Terbaru 2020 | [YouTube](https://www.youtube.com/watch?v=a1Y3oq2O-Nw) | Youtube | [BABYGANG](https://www.youtube.com/channel/UChtm5MKE0sdhSPqH5ipTdfA) | - |
 
 ## Kontributor ✨
 
