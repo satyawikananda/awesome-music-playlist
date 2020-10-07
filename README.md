@@ -55,6 +55,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Rap](#rap)
 - [Campursari](#campursari)
 - [Dangdut](#dangdut)
+- [DJ Indo](#dj-indo)
 
 ## Trap
 
@@ -230,6 +231,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
 | In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
+
+## DJ Indo
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
+| -------------- |-------------- | -------- | ------- | ------- |
+| DJ VIRAL TERBARU 2020 FULL BASS - Remix Terbaru 2020 | [YouTube](https://www.youtube.com/watch?v=a1Y3oq2O-Nw) | Youtube | [BABYGANG](https://www.youtube.com/channel/UChtm5MKE0sdhSPqH5ipTdfA) | - |
 
 ## Dangdut
 
