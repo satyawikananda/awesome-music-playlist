@@ -36,10 +36,6 @@ Jika ada playlist yang bertipe podcast
 
 Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
 
-- [Your Fav Playlist 🎧](#your-fav-playlist-)
-- [Pendahuluan](#pendahuluan)
-- [Panduan kontribusi](#panduan-kontribusi)
-- [Genre playlist](#genre-playlist)
 - [Trap](#trap)
 - [J-pop](#j-pop)
 - [K-pop](#k-pop)
@@ -60,7 +56,6 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Campursari](#campursari)
 - [DJ Indo](#dj-indo)
 - [Dangdut](#dangdut)
-- [Kontributor ✨](#kontributor-)
 
 ## Trap
 
