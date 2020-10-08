@@ -172,6 +172,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
 | lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
 | sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
+| Chill Lo-Fi HipHop Beats | [Spotify](https://open.spotify.com/playlist/2q3hsGutZMdTkgkF69QoBP?si=D5hpEKmQQdGNbOypQYLsLg) | Spotify | [Muhamad Ristiyanto](https://github.com/Gimenz) | For Sickness and Health dan dapat membuat kepala mengangguk - angguk |
 
 ## Instrumental
 
