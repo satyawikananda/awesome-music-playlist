@@ -54,8 +54,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Epic & Melodic](#epic--melodic)
 - [Rap](#rap)
 - [Campursari](#campursari)
-- [Dangdut](#dangdut)
 - [DJ Indo](#dj-indo)
+- [Dangdut](#dangdut)
 
 ## Trap
 
@@ -81,9 +81,9 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - |
 | Human Bloom | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_n_iIVg_L_1CE3LZxu8S80gsqtX5Mx1Hyw) | Youtube | [komangss](https://github.com/komangss) | - |
 | J-Pop + My Playlist | [Spotify](https://open.spotify.com/playlist/0Iqws5QqjrQGDxPPzNpAbl?si=CYGBvIt3T2-tZs-QuG_emA) | Spotify | [hafizcode02](https://github.com/hafizcode02) | - |
-| Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | 
-| Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | 
-| Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | 
+| Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - |
+| Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" |
+| Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - |
 | Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
 
 ## K-pop
@@ -200,6 +200,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
 | Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
 | Teh atau kopi | [Spotify](https://open.spotify.com/show/5ixPRjtMnO92teoj5Vxbuf) | Spotify | [Hilman Ramadhan](https://github.com/hilmanski) | Kehidupan | Teh Atau Kopi adalah podcast berbahasa Indonesia yang membahas seputar masalah kehidupan sehari hari yang jarang dibicarkan. |
+| Lazday Podcast | [Spotify](https://open.spotify.com/show/601MoTxGv8rNHfkGKsBDVL) | Spotify | Muhammad Irsyad | Teknologi | Membahas Cerita Dibalik Programer & Komunitas IT |
 
 ## Murottal
 
