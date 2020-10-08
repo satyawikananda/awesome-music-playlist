@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -335,6 +335,9 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://fritssasia.github.io/"><img src="https://avatars2.githubusercontent.com/u/50069713?v=4" width="120px;" alt=""/><br /><sub><b>Frits Sasia</b></sub></a><br /><a href="#content-fritssasia" title="Content">🖋</a></td>
     <td align="center"><a href="http://mnazria.herokuapp.com"><img src="https://avatars0.githubusercontent.com/u/34557386?v=4" width="120px;" alt=""/><br /><sub><b>Muhammad Nazri Asy'Ary</b></sub></a><br /><a href="#content-nazri07" title="Content">🖋</a></td>
     <td align="center"><a href="https://febriansyah.id"><img src="https://avatars2.githubusercontent.com/u/26494303?v=4" width="120px;" alt=""/><br /><sub><b>FEBRIANSYAH</b></sub></a><br /><a href="#content-febriansyahdotid" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.masgimenz.com"><img src="https://avatars2.githubusercontent.com/u/23699593?v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Ristiyanto</b></sub></a><br /><a href="#content-Gimenz" title="Content">🖋</a></td>
   </tr>
 </table>
 
