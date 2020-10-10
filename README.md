@@ -160,6 +160,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Lagu Barat 2000an (Good Memories) | [YouTube](https://www.youtube.com/playlist?list=PLyAxYdv0v7kyi5u6T6kOnwZ9z1vb631iX) | YouTube | [alfidh02](https://github.com/alfidh02) | Lagu-lagu barat yang enak dan buat nostalgia dari tahun 2000an | - |
 | Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
+| songs that will make you feel like the main character | [Youtube](https://www.youtube.com/playlist?list=PL9V2RZFgYwBUkRkDHdPc24UX9UvQYNEff) | Youtube | [sinta3](https://github.com/sinta3) | Take a break from reality | - |
 
 
 ## Lo-Fi HipHop
