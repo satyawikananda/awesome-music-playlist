@@ -133,6 +133,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Oasis Vibes | [YouTube Music](https://music.youtube.com/playlist?list=PLAX10KNwrIBWdK5ddsFIEBFy7LqiLKXSy) | Youtube Music  | [Ananda Muhammad](https://github.com/handa26) | Live show/performance dari band Oasis, Liam Gallagher dan Noel Gallager | Britpop |
 | This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify       | PRAMADITYA | Pengiring ngoding setiap hari. | - |
+| ONE OK ROCK | [Youtube](https://www.youtube.com/playlist?list=PLD806AE5F989D725E) | Youtube | Yoni Widhi | Music Video dari One Ok Rock | - |
 
 ## R&B
 
@@ -342,6 +343,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://www.masgimenz.com"><img src="https://avatars2.githubusercontent.com/u/23699593?v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Ristiyanto</b></sub></a><br /><a href="#content-Gimenz" title="Content">🖋</a></td>
     <td align="center"><a href="http://sintatr.xyz"><img src="https://avatars0.githubusercontent.com/u/49272494?v=4" width="120px;" alt=""/><br /><sub><b>sinta3</b></sub></a><br /><a href="#content-sinta3" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ranggaadi"><img src="https://avatars1.githubusercontent.com/u/45221389?v=4" width="120px;" alt=""/><br /><sub><b>ranggaadi</b></sub></a><br /><a href="#content-ranggaadi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars0.githubusercontent.com/u/48024209?s=460&u=935ccdc9612b58b1df89c9942f8028a4f118ff65&v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
   </tr>
 </table>
 
