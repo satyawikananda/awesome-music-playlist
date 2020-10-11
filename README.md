@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -343,6 +343,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://www.masgimenz.com"><img src="https://avatars2.githubusercontent.com/u/23699593?v=4" width="120px;" alt=""/><br /><sub><b>Muhamad Ristiyanto</b></sub></a><br /><a href="#content-Gimenz" title="Content">🖋</a></td>
     <td align="center"><a href="http://sintatr.xyz"><img src="https://avatars0.githubusercontent.com/u/49272494?v=4" width="120px;" alt=""/><br /><sub><b>sinta3</b></sub></a><br /><a href="#content-sinta3" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ranggaadi"><img src="https://avatars1.githubusercontent.com/u/45221389?v=4" width="120px;" alt=""/><br /><sub><b>ranggaadi</b></sub></a><br /><a href="#content-ranggaadi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars2.githubusercontent.com/u/48024209?v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi Cahyadi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
   </tr>
 </table>
 
