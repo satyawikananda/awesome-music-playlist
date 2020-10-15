@@ -126,6 +126,8 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 | The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
 | EDM Song | [YouTube](https://www.youtube.com/watch?v=yg6Y_1_DJyI&list=PL3oW2tjiIxvQ60uIjLdo7vrUe4ukSpbKl) | YouTube | [Frits Sasia](https://github.com/fritssasia) | - | - |
+| The Fat Rat Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4xmDAlVh6UVF?si=lOil0DClSQST1GlismVLKw) | Spotify | Spotify | - | MIX |
+
 
 ## Rock
 
