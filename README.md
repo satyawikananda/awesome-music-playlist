@@ -3,7 +3,7 @@
 ## Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -352,6 +352,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/NichiNect"><img src="https://avatars2.githubusercontent.com/u/48024209?v=4" width="120px;" alt=""/><br /><sub><b>Yoni Widhi Cahyadi</b></sub></a><br /><a href="#content-NichiNect" title="Content">🖋</a></td>
     <td align="center"><a href="https://leonanta.github.io"><img src="https://avatars3.githubusercontent.com/u/38516775?v=4" width="120px;" alt=""/><br /><sub><b>Leonanta Pramudya Kusuma</b></sub></a><br /><a href="#content-leoprananta" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/atikadwicahya"><img src="https://avatars0.githubusercontent.com/u/53210051?v=4" width="120px;" alt=""/><br /><sub><b>atika dwi cahyani</b></sub></a><br /><a href="#content-atikadwicahya" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/xvbnm48"><img src="https://avatars3.githubusercontent.com/u/64114487?v=4" width="120px;" alt=""/><br /><sub><b>M Fariz Wisnu prananda</b></sub></a><br /><a href="#content-xvbnm48" title="Content">🖋</a></td>
   </tr>
 </table>
 
