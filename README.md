@@ -166,6 +166,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
 | songs that will make you feel like the main character | [Youtube](https://www.youtube.com/playlist?list=PL9V2RZFgYwBUkRkDHdPc24UX9UvQYNEff) | Youtube | [sinta3](https://github.com/sinta3) | Take a break from reality | - |
+| Sing alone 90s | [Spotify](https://link.tospotify.com/u1Y0sIgZEab) | Spotify | [Dhiva tiradika](https://github.com/dhivatiradika) | - | - | 
 
 
 ## Lo-Fi HipHop
