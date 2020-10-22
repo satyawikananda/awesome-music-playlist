@@ -675,6 +675,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "al-fin",
+      "name": "Alfin Syahruddin",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/34728291?v=4",
+      "profile": "https://alfin.now.sh",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
