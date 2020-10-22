@@ -56,6 +56,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Campursari](#campursari)
 - [DJ Indo](#dj-indo)
 - [Dangdut](#dangdut)
+- [Blues](#blues)
 
 ## Trap
 
@@ -259,6 +260,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Best "HAPPY ASMARA" Milady Record | [YouTube](https://www.youtube.com/playlist?list=PLfWz4B_Gd_uRhtTtPGBfFwvINgBwkoZ_0) | YouTube | [Milady Record Official](https://www.youtube.com/c/MiladyRecordOfficial) | - | - |
 | Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
 | Denny Caknan | [YouTube](https://www.youtube.com/watch?v=77s99NET9Mw&list=PLCQW8AnHzBbTIPqMolxkURq1mY7b8HN0C) | YouTube | [DENNY CAKNAN](https://www.youtube.com/channel/UC0k3T5AJYvKnuc52bB7rJTA) | - | - |
+
+## Blues
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| BEST OF BB KING | [YouTube](https://www.youtube.com/playlist?list=PLC9FB2AC82FFC8DF7) | YouTube | [Javier Alor](https://www.youtube.com/user/MrJalorp) | - | - |
 
 ## Kontributor ✨
 
