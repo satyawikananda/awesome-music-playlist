@@ -56,6 +56,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 - [Campursari](#campursari)
 - [DJ Indo](#dj-indo)
 - [Dangdut](#dangdut)
+- [Blues](#blues)
 
 ## Trap
 
@@ -260,6 +261,12 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
 | Denny Caknan | [YouTube](https://www.youtube.com/watch?v=77s99NET9Mw&list=PLCQW8AnHzBbTIPqMolxkURq1mY7b8HN0C) | YouTube | [DENNY CAKNAN](https://www.youtube.com/channel/UC0k3T5AJYvKnuc52bB7rJTA) | - | - |
 
+## Blues
+
+| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
+| -------------- |-------------- | -------- | ------- | ------- | -------- |
+| BEST OF BB KING | [YouTube](https://www.youtube.com/playlist?list=PLC9FB2AC82FFC8DF7) | YouTube | [Javier Alor](https://www.youtube.com/user/MrJalorp) | - | - |
+
 ## Kontributor ✨
 
 Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
@@ -363,6 +370,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/dhivatiradika"><img src="https://avatars2.githubusercontent.com/u/35055233?v=4" width="120px;" alt=""/><br /><sub><b>dhivatiradika</b></sub></a><br /><a href="#content-dhivatiradika" title="Content">🖋</a></td>
     <td align="center"><a href="https://riyaldi.com"><img src="https://avatars2.githubusercontent.com/u/42972239?v=4" width="120px;" alt=""/><br /><sub><b>Riyaldi Hasan</b></sub></a><br /><a href="#content-riyhs" title="Content">🖋</a></td>
     <td align="center"><a href="https://siarie.github.io"><img src="https://avatars3.githubusercontent.com/u/42394346?v=4" width="120px;" alt=""/><br /><sub><b>Sri Aspari</b></sub></a><br /><a href="#content-siarie" title="Content">🖋</a></td>
+    <td align="center"><a href="https://alfin.now.sh"><img src="https://avatars3.githubusercontent.com/u/34728291?v=4" width="120px;" alt=""/><br /><sub><b>Alfin</b></sub></a><br /><a href="#content-siarie" title="Content">🖋</a></td>
   </tr>
 </table>
 
