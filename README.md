@@ -213,6 +213,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
 | Teh atau kopi | [Spotify](https://open.spotify.com/show/5ixPRjtMnO92teoj5Vxbuf) | Spotify | [Hilman Ramadhan](https://github.com/hilmanski) | Kehidupan | Teh Atau Kopi adalah podcast berbahasa Indonesia yang membahas seputar masalah kehidupan sehari hari yang jarang dibicarkan. |
 | Lazday Podcast | [Spotify](https://open.spotify.com/show/601MoTxGv8rNHfkGKsBDVL) | Spotify | Muhammad Irsyad | Teknologi | Membahas Cerita Dibalik Programer & Komunitas IT |
+| Programer Awam | [Spotify](https://open.spotify.com/show/6p69KNqrwfVfvhqqklTGWQ?si=47lQAMamRVCf21piyif5xg) | Spotify | programer awam | Work | layanan mengenal pekerjaan programaer dari sudut pandang pemula. | 
 
 ## Murottal
 
