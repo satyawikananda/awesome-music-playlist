@@ -87,7 +87,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - |
 | Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
 | Love Live! -ラブライブ! - | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX1uvQpDoMmUF) | Spotify | [Farizzz](https://github.com/xvbnm48) | - |
-| Kimetsu no Yaiba OST | [Spotify](https://open.spotify.com/playlist/4SZpIWqhUPhBquOPbp1M3K?si=LgYB55EsRbiIAYO7KGMhQQ) | Spotify | [energetic6] (https://open.spotify.com/user/energetic6?si=j9yfJXklSF616UORiejmjA) | EP 19 epic moment | 
+| Kimetsu no Yaiba OST | [Spotify](https://open.spotify.com/playlist/4SZpIWqhUPhBquOPbp1M3K?si=LgYB55EsRbiIAYO7KGMhQQ) | Spotify | [energetic6](https://open.spotify.com/user/energetic6) | EP 19 epic moment | 
 
 ## K-pop
 
