@@ -88,6 +88,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
 | Love Live! -ラブライブ! - | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX1uvQpDoMmUF) | Spotify | [Farizzz](https://github.com/xvbnm48) | - |
 | Kimetsu no Yaiba OST | [Spotify](https://open.spotify.com/playlist/4SZpIWqhUPhBquOPbp1M3K?si=LgYB55EsRbiIAYO7KGMhQQ) | Spotify | [energetic6](https://open.spotify.com/user/energetic6) | EP 19 epic moment | 
+| My LiSA | [Spotify](https://open.spotify.com/playlist/2MFidvNYNRvhplbc08Edib?si=eAsm97y8QBWIyK-ImgJ3wQ) | Spotify | [satyawikananda](https://open.spotify.com/user/satyawikananda) | This is not Lisa blackpink playlist's music, but this is LiSA japanese singer | 
 
 ## K-pop
 
