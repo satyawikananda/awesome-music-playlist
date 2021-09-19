@@ -1,6 +1,6 @@
 <div align="center">
 
-## Your Fav Playlist 🎧
+# Your Fav Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
@@ -12,267 +12,19 @@
 
 </div>
 
-## Pendahuluan
+# Introduction
+Awesome music playlist is a list of many playlist music or podcast from many platform, this list is not just from author but this list is from many contribution at Hacktoberfest 2020 participant.
 
-Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah dapat diakses seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
+Any contribution is welcome in here. This repository is a beginner friendly For those who want to do a pull request for the first time.
 
-> _repositori_ ini saya buat untuk membantu teman-teman saya yang ingin mengajukan _pull request_ untuk acara hacktoberfest
+# Credit
 
-## Panduan kontribusi
+* [Vitepress](https://vitepress.vuejs.org/)
 
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | --------- | ------ | ------- | -------- |
-| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) | Jika ada subgenrenya, kalian bisa isi, jika tidak kalian bisa isi dengan (-) |
+# License
+Awesome Music Playlist is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-Jika ada playlist yang bertipe podcast
-
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| -------------- | ------------- | -------- | ------- | --------- | ------ |
-| Judul playlist | [Link playlist](link playlist) | Nama platform | [Nama pembuat playlist](url akun github mu), jika tidak ada akun github, bisa dikosongkan | Kategori dari playlist podcast tersebut | Jika ada catatan silahkan diisi, kalau tidak, bisa isi dengan (-) |
-
-> Disclaimer: Bacalah [contribution guide](CONTRIBUTING.md) terlebih dahulu !
-
-## Genre playlist
-
-Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ada genre atau subgenre yang terkait dengan genre atau subgenre playlist kalian. Untuk genre atau subgenrenya, kalian bebas memasukan genre atau subgenre apapun
-
-- [Trap](#trap)
-- [J-pop](#j-pop)
-- [K-pop](#k-pop)
-- [Eurobeat](#eurobeat)
-- [Metal](#metal)
-- [Kawaii-metal](#kawaii-metal)
-- [Electronic Dance Music](#electronic-dance-music)
-- [Rock](#rock)
-- [R&B](#rb)
-- [Pop](#pop)
-- [Lo-Fi HipHop](#lo-fi-hiphop)
-- [Instrumental](#instrumental)
-- [Podcast](#podcast)
-- [Murottal](#murottal)
-- [Soul](#soul)
-- [Epic & Melodic](#epic--melodic)
-- [Rap](#rap)
-- [Campursari](#campursari)
-- [DJ Indo](#dj-indo)
-- [Dangdut](#dangdut)
-- [Blues](#blues)
-
-## Trap
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| 🚀 On Fire Trap Beats | [Spotify](https://open.spotify.com/playlist/7ay7Xh7AzGoVcMuFfVga8L?si=L1may-ZvQ-e8Bf0Zcnuqnw) | Spotify  | [Supryantowp](https://github.com/supryantowp) | - | - |
-| YOOKTRAP | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yooktrap) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | - |
-| YOOKBASS | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yookbass) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | BASS |
-| SLANDER REMIXES | [SoundCloud](https://soundcloud.com/slanderofficial/sets/remixes) | SoundCloud | [SLANDER](https://soundcloud.com/slanderofficial) | - | MIX |
-
-
-## J-pop
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| Just Jpop songs | [YouTube](https://music.youtube.com/playlist?list=PLtysZogykz_0uaCDs1TOYCdzDv6ZxB-lE) | Youtube Music | [Satya Wikananda](https://github.com/satyawikananda) | - |
-| Sadness | [YouTube](https://www.youtube.com/playlist?list=PLqj9w5v5mJ8G7mYF6Egfi7kNVEfE_8_sS) | Youtube Music | [Atrem13](https://github.com/atrem13) | - |
-| Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - |
-| Bandori | [Spotify](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - |
-| Keyakizaka46 | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8IHNDWD0MU7?si=ioEjSEaIQQSz1t-y4mtCyA) | Spotify | [Alit Tri Utari](https://github.com/alittriutari)
-| Moepoi's Music | [Telegram](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - |
-| Naruto - Openings & Endings | [Spotify](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - |
-| Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - |
-| Human Bloom | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_n_iIVg_L_1CE3LZxu8S80gsqtX5Mx1Hyw) | Youtube | [komangss](https://github.com/komangss) | - |
-| J-Pop + My Playlist | [Spotify](https://open.spotify.com/playlist/0Iqws5QqjrQGDxPPzNpAbl?si=CYGBvIt3T2-tZs-QuG_emA) | Spotify | [hafizcode02](https://github.com/hafizcode02) | - |
-| Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - |
-| Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" |
-| Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - |
-| Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - |
-| Love Live! -ラブライブ! - | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX1uvQpDoMmUF) | Spotify | [Farizzz](https://github.com/xvbnm48) | - |
-| Kimetsu no Yaiba OST | [Spotify](https://open.spotify.com/playlist/4SZpIWqhUPhBquOPbp1M3K?si=LgYB55EsRbiIAYO7KGMhQQ) | Spotify | [energetic6](https://open.spotify.com/user/energetic6) | EP 19 epic moment | 
-| My LiSA | [Spotify](https://open.spotify.com/playlist/2MFidvNYNRvhplbc08Edib?si=eAsm97y8QBWIyK-ImgJ3wQ) | Spotify | [satyawikananda](https://open.spotify.com/user/satyawikananda) | This is not Lisa blackpink playlist's music, but this is LiSA japanese singer | 
-
-## K-pop
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| 한국 노래 | [Spotify](https://open.spotify.com/playlist/3z5iDf37a7qsOC0LfdwuwF) | Spotify | [Anthony Lee (Mbahmo)](https://github.com/mbahmo) | List of K-pop Songs that was my favorite (Bigbang, Red Velvet, Etc) |
-| This Is BLACKPINK | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA) | Spotify | [Wahyu Setyawan (wahyustwn)](https://github.com/wahyustwn) | List of BLACKPINK Songs |
-
-## Eurobeat
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ----------- | -------- | ---------- | ---------- | -------- |
-| Tofu Delivery BGM | [YouTube](https://www.youtube.com/watch?v=ZOYTfpHl0JA) | Youtube  | [Yeri](https://github.com/pirey) | Musik pengiring saat anda mengantar tahu lintas gunung | - |
-| Turbo Eurobeat Remix | [YouTube](https://www.youtube.com/playlist?list=UUus8EVJ7Oc9zINhs-fg8l1Q) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | Your favorite anime song or else, but eurobeat | - |
-
-## Metal
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| This Is Dream Theater | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdBgp0ZiArMs) | Spotify | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | - | Progressive Metal |
-| Heavy Metal | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe) | Spotify | [Angga](https://github.com/AnggaR96s) | - | Heavy Metal |
-| Deathcore | [Spotify](https://open.spotify.com/playlist/1WQ9A9zKTTU5msWTMqraiP?si=QsMRbF79RhW_LwEfyjSl8A) | Spotify | [HafitzSetya](https://github.com/HafitzSetya) | - | Metalcore & Deathmetal |
-
-## Kawaii-metal
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- |
-| Legend Metal Galaxy | [Spotify](https://open.spotify.com/playlist/48r3NVBVMHK7iwUfQ7zVsQ?si=eZeww6BgTf2QUqAqkOoCKA) | Spotify | [Elianiva](https://github.com/elianiva) | Babymetal's Legend Metal Galaxy day 1 and 2 combined |
-| BABYMETAL Favorite | [Spotify](https://open.spotify.com/playlist/2P7YxzvrBfJzkAknfKk6zb) | Spotify | [Harry](https://github.com/owl4ce) | BABYMETAL, METAL RESISTANCE, METAL GALAXY |
-
-## Electronic Dance Music
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Just Edm songs | [https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A](https://open.spotify.com/playlist/6hm9S3m7kPS3cINsADLvWv?si=kPG6ubTIQO-pVmGaVjDR1A) | Spotify | [Satya Wikananda](https://github.com/satyawikananda) | - | - |
-| K-EDM House | [K-EDM House](https://open.spotify.com/playlist/21EsHZCYpOlVGJKdnz2cG4?si=Ea7V11RcT8-mC_iLyJb42Q) | Spotify | [Divetri](https://github.com/divetri) | KPop, but it's EDM/Deep House line. | Deep House |
-| Happy Hits 2020 😄 Happy EDM | [Spotify](https://open.spotify.com/playlist/10r5uRJGNzE4XZ4H2X15Nf) | Spotify | [AESTHETE](https://open.spotify.com/user/uuo0uc1mv6nr0fuuyfnf82iy4) | Happy Hits will boost your mood! Get a Daily lift with Happy EDM Hits. You deserve to be Happy | - |
-| All KODOMOi's Tracks | [Spotify](https://open.spotify.com/playlist/1rbPliOKPhZtjb2OqeWUsq) | Spotify | [KODOMOi](https://open.spotify.com/user/cxd7be1yq8qf9qmsihj2kfxb0) | - | Kawaii Happy ^ w ^, Vol.1 |
-| Love | [SoundCloud](https://soundcloud.com/airuei/sets/love) | SoundCloud | [Airuei](https://soundcloud.com/airuei) | - | MIX |
-| DESKPOP & Hyperpop - TRANSFORMATION | [SoundCloud](https://soundcloud.com/deskpopmusic/sets/deskpop-hyperpop-transformation) | SoundCloud | [DESKPOP 🌵🖥💛](https://soundcloud.com/deskpopmusic) | - | MIX |
-| Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
-| The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
-| EDM Song | [YouTube](https://www.youtube.com/watch?v=yg6Y_1_DJyI&list=PL3oW2tjiIxvQ60uIjLdo7vrUe4ukSpbKl) | YouTube | [Frits Sasia](https://github.com/fritssasia) | - | - |
-| The Fat Rat Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4xmDAlVh6UVF?si=lOil0DClSQST1GlismVLKw) | Spotify | Spotify | - | MIX |
-
-
-## Rock
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Oasis Vibes | [YouTube Music](https://music.youtube.com/playlist?list=PLAX10KNwrIBWdK5ddsFIEBFy7LqiLKXSy) | Youtube Music  | [Ananda Muhammad](https://github.com/handa26) | Live show/performance dari band Oasis, Liam Gallagher dan Noel Gallager | Britpop |
-| This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify       | PRAMADITYA | Pengiring ngoding setiap hari. | - |
-| ONE OK ROCK | [Youtube](https://www.youtube.com/playlist?list=PLD806AE5F989D725E) | Youtube | Yoni Widhi | Music Video dari One Ok Rock | - |
-| Japanesse Rock | [Spotify](https://open.spotify.com/playlist/30byzftTDKhmWiWnaxdSGx?si=5CAsfLlCTMGZupCt7dTXtQ) | Spotify | [Sri Aspari](https://github.com/siarie) | Collaborative Playlist. Jika ada lagu rock jepang yang kalian suka tambahin aja. Yang penting genre bandnya rock. | - |
-
-## R&B
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Self Care | [YouTube](https://youtu.be/SsKT0s5J8ko) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dicampuri dengan gaya musik space-funk | - |
-
-## Pop
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Sans | [Spotify]https://open.spotify.com/playlist/1dINy55zfy242ZYz4tOlQ3) | Spotify  | [Naufal Hanif](https://github.com/nahansans) | Lagu lagu indie santai | Indie |
-| Break My Heart Again | [YouTube](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
-| KANGEN BAND | [YouTube](https://music.youtube.com/playlist?list=PLtO_wK0TwmA6a7hSXQT8oTyUs-el1rQhn) | YouTube Music | [Aditya Rahman](https://github.com/kudaliar032) | - | Pop Melayu |
-| Payung Teduh | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
-| Teman Kerja | [Spotify](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
-| Armada Band | [YouTube](https://youtu.be/FS391MDbrhM)| Youtube | [Andika Tulus Pangestu](https://github.com/andikatuluspangestu) | - |
-| Alexandra Porat Cover | [YouTube](https://www.youtube.com/playlist?list=PLKgVfRrpKCuETp7V5c21X2srh-io6QFUd) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
-| J Fla | [YouTube](https://www.youtube.com/playlist?list=PL4C2OaC1jQqR3ICDBf4j1dH1Fk4uIo-Lx) | Youtube | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
-| Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
-| Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
-| Acha Septriasa and Irwansyah full album best of the best) | [YouTube](https://www.youtube.com/watch?v=55V1ZK3Kamc) | YouTube | [safitri02](https://github.com/safitri02) | Acha Septriasa and Irwansyah full album best of the best | - |
-| I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
-| LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
-| Lagu Barat 2000an (Good Memories) | [YouTube](https://www.youtube.com/playlist?list=PLyAxYdv0v7kyi5u6T6kOnwZ9z1vb631iX) | YouTube | [alfidh02](https://github.com/alfidh02) | Lagu-lagu barat yang enak dan buat nostalgia dari tahun 2000an | - |
-| Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
-| Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
-| songs that will make you feel like the main character | [Youtube](https://www.youtube.com/playlist?list=PL9V2RZFgYwBUkRkDHdPc24UX9UvQYNEff) | Youtube | [sinta3](https://github.com/sinta3) | Take a break from reality | - |
-| Sing alone 90s | [Spotify](https://link.tospotify.com/u1Y0sIgZEab) | Spotify | [Dhiva tiradika](https://github.com/dhivatiradika) | - | - | 
-
-
-## Lo-Fi HipHop
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ------------- | -------- | ------- | ------- |
-| Calm Lo-Fi | [YouTube](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
-| lofi hip hop music - beats to relax/study to | [Spotify](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
-| chilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
-| Lofi Hip Hop Music To Chill / Relax / Study | [Spotify](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1) | Spotify  | [Lofi Fruits](https://lnk.to/lofi-everywhere) | - |
-| This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
-| lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
-| sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
-| Chill Lo-Fi HipHop Beats | [Spotify](https://open.spotify.com/playlist/2q3hsGutZMdTkgkF69QoBP?si=D5hpEKmQQdGNbOypQYLsLg) | Spotify | [Muhamad Ristiyanto](https://github.com/Gimenz) | For Sickness and Health dan dapat membuat kepala mengangguk - angguk |
-| Lo-Fi Lagu Indonesia | [Youtube](https://www.youtube.com/playlist?list=PL4b5Xf5AbHM9wxOfVzwnGCr1GOsQMZwd0) | Youtube | [Masiyoo](https://www.youtube.com/channel/UC98ST6PvP1GU3BMOzjlFrlA) | Kumpulan lagu Indonesia versi Lo-Fi |
-
-## Instrumental
-
-| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
-| ------------- | ------------- | -------- | ------- | --------- |
-| This is Yiruma | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
-| Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
-| Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
-| The Shiro Sagisu Symphony | [Youtube](https://www.youtube.com/watch?v=Kc6Gg24MXOI) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | That one anime OST that plays when something goes bad, mostly used in Bleach, Evangelion, Berserk, and Magi |
-| This is Mozart | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8qqIDAkKiQg) | Spotify | [Rigen Maulana](https://github.com/rygenzx) | - |
-| Joe Hisaishi in Budokan - Studio Ghibli 25 Years Concert | [Youtube](https://youtu.be/Gpr_ISfWFsk) | Youtube | [Akbarsn](https://github.com/akbarsn) | Amazing Ghibli Concert by Joe Hisaishi. This playlist contain few OST in Ghibli movies like Howl Moving Castle, Porco Rosso, and many more |
-| Original Works | [Youtube](https://www.youtube.com/playlist?list=PLK2o01EsuMU9RsAgCO07RBYOHZzdo2rtY) | Youtube | [Rush Garcia](https://github.com/akbarsn) | Amazing cover from EDM music to instrumental |
-| Synthwave Retro 80s Electronic | [Spotify](https://open.spotify.com/playlist/5GBJpEiKMiFy3cBPKR2TaH?si=xPZzymkLQsmFaMRYaSYWog) | Spotify | [Rangga Adi](https://github.com/ranggaadi/) | Futuristic 80's Synthwave, Retrowave Electronic Instrumental to survive the night. |
-
-## Podcast
-
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- | --------- |
-| Ceritanya Developer Podcast |[Spotify](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
-| Kode nol |[Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
-| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
-| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
-|Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
-| Menjadi Manusia | [Spotify](https://open.spotify.com/show/3czvHT8ALg4yRSSTmZvPOe?si=057YYEeZS6yXlRzk2xDEUw) | Spotify | Menjadi Manusia | Kehidupan | Menjadi Manusia adalah sebuah social-platform untuk mereka yang ingin berbagi & mendengar cerita-cerita tentang kehidupan dari berbagai sudut pandang, dan diharapkan mampu menjadi sebuah tangga untuk mendapatkan setitik harapan bagi mereka yang memiliki persoalan-persoalan dalam kehidupan. |
-| Muzammil | [Spotify](https://open.spotify.com/show/6SpdHJQcjLyMaG8Q5Bzksv?si=mkWSg48tTYGxrSr4-u5jwQ) | Spotify | Ojal | Murottal | - |
-| LUTALK | [Spotify](https://open.spotify.com/show/2Pkv4GbecCiPFp6pf1wXf5?si=keczsKRxRHaQ8t4MfzKypw) | Spotify | Luthfi Suryanda Atmojo | Pop Kultur | Membahas anime, manga, musik, dan berbagai macam hal terkait pop kultur secara mendalam |
-| Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
-| Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
-| Teh atau kopi | [Spotify](https://open.spotify.com/show/5ixPRjtMnO92teoj5Vxbuf) | Spotify | [Hilman Ramadhan](https://github.com/hilmanski) | Kehidupan | Teh Atau Kopi adalah podcast berbahasa Indonesia yang membahas seputar masalah kehidupan sehari hari yang jarang dibicarkan. |
-| Lazday Podcast | [Spotify](https://open.spotify.com/show/601MoTxGv8rNHfkGKsBDVL) | Spotify | Muhammad Irsyad | Teknologi | Membahas Cerita Dibalik Programer & Komunitas IT |
-| Programer Awam | [Spotify](https://open.spotify.com/show/6p69KNqrwfVfvhqqklTGWQ?si=47lQAMamRVCf21piyif5xg) | Spotify | programer awam | Work | layanan mengenal pekerjaan programaer dari sudut pandang pemula. | 
-
-## Murottal
-
-| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
-| ------------- | ------------- | -------- | ------- | --------- |
-| Juz Amma - Abdul Rahman Al-Sudais | [YouTube](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
-| Tilawah - Ust. Hannan Attaki | [YouTube](https://www.youtube.com/playlist?list=PLPVaZBOpYqfDkN-AEA_qVpMMFxycBk4_q) | Youtube | [HananAttaki](https://www.youtube.com/c/HananAttaki) | - |
-| Murottal Alquran - Muhammad Thaha Al Junayd | [YouTube](https://www.youtube.com/watch?v=JBN34ZjNMAA&list=OLAK5uy_mlpqM5bxDqHMnqmwVrMe24MKLcuSz5FWk) | Youtube | [Muhammad Thaha - Topik](https://www.youtube.com/channel/UCj30c9oZxmRDUxKO-oDIkrQ) | - |
-
-
-## Soul
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Soul | [Spotify](https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg) | Spotify  | [Rommy Gustiawan](https://github.com/rgxcp) | - | - |
-
-## Epic & Melodic
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Best of the blessed | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f) | Spotify  | [Ryan](https://github.com/Ryzenv9) | - | - |
-
-## Rap
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| It's a Dad Thing 2 | [YouTube](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
-
-## Campursari
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
-
-## DJ Indo
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| DJ VIRAL TERBARU 2020 FULL BASS - Remix Terbaru 2020 | [YouTube](https://www.youtube.com/watch?v=a1Y3oq2O-Nw) | Youtube | [BABYGANG](https://www.youtube.com/channel/UChtm5MKE0sdhSPqH5ipTdfA) | - |
-
-## Dangdut
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Best "HAPPY ASMARA" Milady Record | [YouTube](https://www.youtube.com/playlist?list=PLfWz4B_Gd_uRhtTtPGBfFwvINgBwkoZ_0) | YouTube | [Milady Record Official](https://www.youtube.com/c/MiladyRecordOfficial) | - | - |
-| Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
-| Denny Caknan | [YouTube](https://www.youtube.com/watch?v=77s99NET9Mw&list=PLCQW8AnHzBbTIPqMolxkURq1mY7b8HN0C) | YouTube | [DENNY CAKNAN](https://www.youtube.com/channel/UC0k3T5AJYvKnuc52bB7rJTA) | - | - |
-
-## Blues
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| BEST OF BB KING | [YouTube](https://www.youtube.com/playlist?list=PLC9FB2AC82FFC8DF7) | YouTube | [Javier Alor](https://www.youtube.com/user/MrJalorp) | - | - |
-
-## Kontributor ✨
-
-Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
+# Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -381,5 +133,3 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Projek ini menggunakan [all-contributors](https://github.com/all-contributors/all-contributors) specification. Kontribusi dalam bentuk apapun diterima 😊
