@@ -17,6 +17,19 @@ Awesome music playlist is a list of many playlist music or podcast from many pla
 
 Any contribution is welcome in here. This repository is a beginner friendly For those who want to do a pull request for the first time.
 
+# Instalation
+This project is use PNPM, if you don't use PNPM, you can install with another package manager
+```bash
+git clone https://github.com/satyawikananda/awesome-music-playlist.git
+```
+
+```bash
+pnpm i
+```
+
+```bash
+pnpm docs:dev
+```
 # Credit
 
 * [Vitepress](https://vitepress.vuejs.org/)
