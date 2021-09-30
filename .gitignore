@@ -1,2 +1,5 @@
 node_modules
 public
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
