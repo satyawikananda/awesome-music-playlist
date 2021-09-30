@@ -17,6 +17,8 @@ Awesome music playlist is a list of many playlist music or podcast from many pla
 
 Any contribution is welcome in here. This repository is a beginner friendly For those who want to do a pull request for the first time.
 
+Demo: [Click here](https://awesome-music-playlist.vercel.app/)
+
 # Instalation
 This project is use PNPM, if you don't use PNPM, you can install with another package manager
 ```bash
@@ -30,12 +32,16 @@ pnpm i
 ```bash
 pnpm docs:dev
 ```
+
+# Contribution
+For the contribution, you can check [here](https://awesome-music-playlist.vercel.app/contribution.html)
+
 # Credit
 
 * [Vitepress](https://vitepress.vuejs.org/)
 
 # License
-Awesome Music Playlist is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 # Contributors ✨
 
