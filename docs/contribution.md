@@ -25,8 +25,8 @@ title: Genre's name
 
 1. Fork this repository project on GitHub
 2. Clone the project which you had been forked before
-3. Edit that what you want to change
-4. Create your feature branch: `git checkout -b your-new-branch`
+3. Create your feature branch: `git checkout -b your-new-branch`
+4. Edit that what you want to change
 5. Add your change to the staging area git: `git add .`
 6. Commit your change: `git commit -m "some message"`
 7. Push to the branch: `git push -u origin your-new-branch`
