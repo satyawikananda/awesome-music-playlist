@@ -7,7 +7,7 @@ title: Podcast
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Topic | Note |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Bedah Teknologi |[Spotify](https://open.spotify.com/show/4QbWKHCMZiIGY3yJamPLaP?si=e0veTe5RRYeopt6BnwX11Q&dl_branch=1)| Spotify | [Akbarul Huda](https://github.com/rizafahmi) | Teknologi | Podcast mengulas bagaimana Computer Science & Software Engineering mendukung kesuksesan sebuah bisnis termasuk startup. |
+| Bedah Teknologi |[Spotify](https://open.spotify.com/show/4QbWKHCMZiIGY3yJamPLaP?si=e0veTe5RRYeopt6BnwX11Q&dl_branch=1)| Spotify | [Akbarul Huda] | Teknologi | Podcast mengulas bagaimana Computer Science & Software Engineering mendukung kesuksesan sebuah bisnis termasuk startup. |
 | Ceritanya Developer Podcast |[Spotify](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
 | Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
