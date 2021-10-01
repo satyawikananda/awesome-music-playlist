@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -154,6 +154,7 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://tjandradarmo.me"><img src="https://avatars.githubusercontent.com/u/46013258?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Tjandra Darmo</b></sub></a><br /><a href="#content-TjandraD" title="Content">🖋</a></td>
     <td align="center"><a href="http://gifaldyazka.is-a.dev"><img src="https://avatars.githubusercontent.com/u/68645946?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Gifaldy Azka</b></sub></a><br /><a href="#content-gifaldyazkaa" title="Content">🖋</a></td>
     <td align="center"><a href="http://rinosatyaputra.vercel.app"><img src="https://avatars.githubusercontent.com/u/50629099?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Rino Satya Putra</b></sub></a><br /><a href="#content-riyaraa" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/husinassegaff"><img src="https://avatars.githubusercontent.com/u/63222585?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Husin Muhammad Assegaff</b></sub></a><br /><a href="#content-husinassegaff" title="Content">🖋</a></td>
   </tr>
 </table>
 
