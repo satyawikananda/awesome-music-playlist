@@ -6,7 +6,8 @@ title: J-Pop
 # J-Pop Playlist List
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Note | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | ----- | 
+| -------------- |-------------- | -------- | ------- | ------- | ----- |
+| Anime Hits | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY) | Spotify | [Yulidar Maulana](https://github.com/yulidarmaulana) | Listen to your favourite Anime songs, all in one playlist | - |
 | Bandori | [Spotify](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - | - |
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | - |
 | Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | - |
