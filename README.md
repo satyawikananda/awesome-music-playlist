@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-77-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-78-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -147,6 +147,9 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://alfin.now.sh"><img src="https://avatars1.githubusercontent.com/u/34728291?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Alfin Syahruddin</b></sub></a><br /><a href="#content-al-fin" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.facebook.com/groups/DevCJakarta/"><img src="https://avatars3.githubusercontent.com/u/28197080?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Martin Jham</b></sub></a><br /><a href="#content-rifaimartin" title="Content">🖋</a></td>
     <td align="center"><a href="http://myfra.vercel.app"><img src="https://avatars.githubusercontent.com/u/60420319?v=4?s=120" width="120px;" alt=""/><br /><sub><b>To My</b></sub></a><br /><a href="#content-MyFRA" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/TechnicallyItsPossible"><img src="https://avatars.githubusercontent.com/u/49406400?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Raaj Anand Chaudhary</b></sub></a><br /><a href="#content-TechnicallyItsPossible" title="Content">🖋</a></td>
   </tr>
 </table>
 
