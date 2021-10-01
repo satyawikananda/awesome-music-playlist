@@ -22,6 +22,8 @@ title: J-Pop
 | Moepoi's Music | [Telegram](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - | - |
 | My LiSA | [Spotify](https://open.spotify.com/playlist/2MFidvNYNRvhplbc08Edib?si=eAsm97y8QBWIyK-ImgJ3wQ) | Spotify | [Satya Wikananda](https://open.spotify.com/user/satyawikananda) | This is not Lisa blackpink playlist's music, but this is LiSA japanese singer | - |
 | Naruto - Openings & Endings | [Spotify](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - | - |
+| Nogizaka46 | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX6Nm7WbHa378?si=22246fe6a07f40f8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
 | Sadness | [YouTube](https://www.youtube.com/playlist?list=PLqj9w5v5mJ8G7mYF6Egfi7kNVEfE_8_sS) | Youtube Music | [Atrem13](https://github.com/atrem13) | - | - |
 | Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - | - |
+| Vaundy | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXYQRh3xeYje?si=4d03de803e5545f3) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - | - |
