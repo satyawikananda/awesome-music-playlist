@@ -7,6 +7,7 @@ title: Podcast
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Topic | Note |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Bedah Teknologi |[Spotify](https://open.spotify.com/show/4QbWKHCMZiIGY3yJamPLaP?si=e0veTe5RRYeopt6BnwX11Q&dl_branch=1)| Spotify | [Akbarul Huda](https://github.com/rizafahmi) | Teknologi | Podcast mengulas bagaimana Computer Science & Software Engineering mendukung kesuksesan sebuah bisnis termasuk startup. |
 | Ceritanya Developer Podcast |[Spotify](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
 | Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
@@ -21,4 +22,3 @@ title: Podcast
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
-| Bedah Teknologi |[Spotify](https://open.spotify.com/show/4QbWKHCMZiIGY3yJamPLaP?si=e0veTe5RRYeopt6BnwX11Q&dl_branch=1)| Spotify | [Akbarul Huda](https://github.com/rizafahmi) | Teknologi | Podcast mengulas bagaimana Computer Science & Software Engineering mendukung kesuksesan sebuah bisnis termasuk startup. |
