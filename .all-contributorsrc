@@ -1,5 +1,5 @@
 {
-  "projectName": "your-fav-playlist",
+  "projectName": "awesome-music-playlist",
   "projectOwner": "satyawikananda",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -690,6 +690,15 @@
       "name": "Martin Jham",
       "avatar_url": "https://avatars3.githubusercontent.com/u/28197080?v=4",
       "profile": "https://www.facebook.com/groups/DevCJakarta/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "MyFRA",
+      "name": "To My",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60420319?v=4",
+      "profile": "http://myfra.vercel.app",
       "contributions": [
         "content"
       ]
