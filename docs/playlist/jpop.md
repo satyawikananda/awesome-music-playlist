@@ -24,3 +24,4 @@ title: J-Pop
 | Sadness | [YouTube](https://www.youtube.com/playlist?list=PLqj9w5v5mJ8G7mYF6Egfi7kNVEfE_8_sS) | Youtube Music | [Atrem13](https://github.com/atrem13) | - | - |
 | Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - | - |
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - | - |
+| Anime Hits | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY) | Spotify | [Yulidar Maulana](https://github.com/yulidarmaulana) | Listen to your favourite Anime songs, all in one playlist | - |
