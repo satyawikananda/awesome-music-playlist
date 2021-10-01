@@ -19,7 +19,7 @@ Any contribution is welcome in here. This repository is a beginner friendly For 
 
 Demo: [Click here](https://awesome-music-playlist.vercel.app/)
 
-# Instalation
+# Installation
 This project is use PNPM, if you don't use PNPM, you can install with another package manager
 ```bash
 git clone https://github.com/satyawikananda/awesome-music-playlist.git
