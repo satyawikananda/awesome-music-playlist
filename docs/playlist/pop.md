@@ -24,3 +24,4 @@ title: Pop
 | Teman Kerja | [Spotify](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
+| Hozier-live | [Youtube](https://www.youtube.com/watch?v=463t2sGE0wA&list=PLH-R42ciEc_rfRHhWoDiz9vzwQ4aGHFfh) | Youtube | [Febriari Candra Guritno](https://github.com/febriaricandra) | Hozier | - |
