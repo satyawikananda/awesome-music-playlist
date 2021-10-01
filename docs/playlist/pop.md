@@ -18,6 +18,7 @@ title: Pop
 | Lagu Barat 2000an (Good Memories) | [YouTube](https://www.youtube.com/playlist?list=PLyAxYdv0v7kyi5u6T6kOnwZ9z1vb631iX) | YouTube | [alfidh02](https://github.com/alfidh02) | Lagu-lagu barat yang enak dan buat nostalgia dari tahun 2000an | - |
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 | Payung Teduh | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_md6w8VlKmNpFUH9ITRSOV8t3vIRhksriE) | YouTube Music | [Verdy Bangkit](https://github.com/verkit) | Lagu enak buat anak senja | - |
+| Pop Indonesia Hits 2000an | [Spotify](https://open.spotify.com/playlist/4G4vBFCI0FQfac2KF2TJLw?si=60185f8ca2974c82) | Spotify | [husinassegaff](https://github.com/husinassegaff) | 300++ lagu hits Indonesia di era 2000-an | - |
 | Sans | [Spotify](https://open.spotify.com/playlist/1dINy55zfy242ZYz4tOlQ3) | Spotify  | [Naufal Hanif](https://github.com/nahansans) | Lagu lagu indie santai | Indie |
 | Sing alone 90s | [Spotify](https://link.tospotify.com/u1Y0sIgZEab) | Spotify | [Dhiva tiradika](https://github.com/dhivatiradika) | - | - | 
 | songs that will make you feel like the main character | [Youtube](https://www.youtube.com/playlist?list=PL9V2RZFgYwBUkRkDHdPc24UX9UvQYNEff) | Youtube | [sinta3](https://github.com/sinta3) | Take a break from reality | - |
