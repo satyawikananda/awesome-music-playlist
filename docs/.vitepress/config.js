@@ -55,6 +55,7 @@ function getMenuSidebar() {
         { text: 'Rap', link: '/playlist/rap' },
         { text: 'Rock', link: '/playlist/rock' },
         { text: 'Soul', link: '/playlist/soul' },
+        {text: 'Soundtrack', link: '/playlist/soundtrack'},
         { text: 'Trap', link: '/playlist/trap' }
       ]
     }
