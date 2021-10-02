@@ -26,6 +26,7 @@ title: J-Pop
 | Nogizaka46 | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX6Nm7WbHa378?si=22246fe6a07f40f8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
 | Sadness | [YouTube](https://www.youtube.com/playlist?list=PLqj9w5v5mJ8G7mYF6Egfi7kNVEfE_8_sS) | Youtube Music | [Atrem13](https://github.com/atrem13) | - | - |
 | Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - | - |
+| Twice Japanese Version | [Spotify](https://open.spotify.com/playlist/777JpadJnEYPy3R5RqKQYC?si=bc16e67d51d8404c) | Spotify | [Rabih Utomo](https://github.com/robycigar) | Nggak Twice nggak laki 😎 | - |
 | Vaundy | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXYQRh3xeYje?si=4d03de803e5545f3) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - | - |
 | Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
