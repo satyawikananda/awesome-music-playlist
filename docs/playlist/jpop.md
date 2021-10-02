@@ -7,6 +7,7 @@ title: J-Pop
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Note | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | ----- |
+| AKB48 | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWreOe?si=da9ed44df60c4551) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
 | Anime Hits | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY) | Spotify | [Yulidar Maulana](https://github.com/yulidarmaulana) | Listen to your favourite Anime songs, all in one playlist | - |
 | Bandori | [Spotify](https://open.spotify.com/playlist/67Nr4YrWJmaIq72B3zEHnh?si=RA01Wb6aQ4-bIqXqVuh6ig) | Spotify | [Enggar Tivandi](https://github.com/nekoding)| - | - |
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | - |
@@ -27,3 +28,5 @@ title: J-Pop
 | Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - | - |
 | Vaundy | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXYQRh3xeYje?si=4d03de803e5545f3) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
 | Wee Boo For Lyfe | [YouTube](https://music.youtube.com/playlist?list=PLzlwdP6LuaDOjBeErVG9kv6WiupiIUPHJ) | Youtube | [Guntur Pratama](https://github.com/gunturpratama) | - | - |
+| Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
+| Yorushika | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=21c70bac8ba841c8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
