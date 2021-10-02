@@ -16,3 +16,4 @@ title: Instrumental
 | This is Yiruma | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
 | Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
 | Yuki Kajiura Greatest Hits | [Youtube](https://www.youtube.com/watch?v=l2yrnH6Dz7w&t=750ss) | Youtube | [Adrian Edy](https://github.com/AdrianEdy) | Fantasy anime instrumental OST mostly used in Sword Art Online, Madoka Magica, Fate Series and Pandora Hearts |
+| Guzheng Instrument | [Youtube](https://www.youtube.com/watch?v=8QjWPNa1Ml0) | Youtube | [Rabih Utomo](https://github.com/Robycigar) | - |  |
