@@ -35,3 +35,4 @@ title: J-Pop
 | Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
 | Yoasobi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF) | Spotify | [Yoasobi](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | - |
 | Yorushika | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=21c70bac8ba841c8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
+| Milet | [Spotify](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | Spotify | [Aguraku](https://github.com/aguraku) | - | - |
