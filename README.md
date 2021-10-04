@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -165,6 +165,9 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://github.com/parthkgh24"><img src="https://avatars.githubusercontent.com/u/60440835?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Parth Kulkarni</b></sub></a><br /><a href="#content-parthkgh24" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/danar-noverawan-58a850184"><img src="https://avatars.githubusercontent.com/u/39963063?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Danar Noverawan</b></sub></a><br /><a href="#content-danarn17" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/danangtomo"><img src="https://avatars.githubusercontent.com/u/26623057?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Danang Estutomoaji</b></sub></a><br /><a href="#content-danangtomo" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://pujayana.github.io"><img src="https://avatars.githubusercontent.com/u/35335864?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Stuck Dev</b></sub></a><br /><a href="#content-pujayana" title="Content">🖋</a></td>
   </tr>
 </table>
 
