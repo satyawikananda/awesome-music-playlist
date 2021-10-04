@@ -42,6 +42,7 @@ function getMenuSidebar() {
         { text: 'Electronic Dance Music', link: '/playlist/edm' },
         { text: 'Epic and Melodic', link: '/playlist/epic-melodic' },
         { text: 'Eurobeat', link: '/playlist/eurobeat' },
+        {text: 'Hip-hop', link: '/playlist/hip-hop'},
         { text: 'Indie', link: '/playlist/indie' },
         { text: 'Instrumental', link: '/playlist/instrumental' },
         { text: 'J-Pop', link: '/playlist/jpop' },
