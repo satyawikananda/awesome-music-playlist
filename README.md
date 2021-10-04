@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-93-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-94-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -169,6 +169,7 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
   <tr>
     <td align="center"><a href="http://pujayana.github.io"><img src="https://avatars.githubusercontent.com/u/35335864?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Stuck Dev</b></sub></a><br /><a href="#content-pujayana" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/TheAnton205"><img src="https://avatars.githubusercontent.com/u/33186076?v=4?s=120" width="120px;" alt=""/><br /><sub><b>TheAnton205</b></sub></a><br /><a href="#content-TheAnton205" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/fatimareefat"><img src="https://avatars.githubusercontent.com/u/83615173?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Fatima Reefat</b></sub></a><br /><a href="#content-fatimareefat" title="Content">🖋</a></td>
   </tr>
 </table>
 

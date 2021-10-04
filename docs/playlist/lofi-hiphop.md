@@ -7,6 +7,7 @@ title: Lofi Hiphop
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Note | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
+| Best Indian Lofi Hits | [Spotify](https://open.spotify.com/playlist/0Gug5ATgJnrG0C5q4Dh3Iq?si=X3HzxKEAS662hHz50WCs9A&utm_source=copy-link&dl_branch=1) | Spotify  | [Fatima Reefat](https://github.com/fatimareefat) | - |
 | Calm Lo-Fi | [YouTube](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 | Chill Lo-Fi HipHop Beats | [Spotify](https://open.spotify.com/playlist/2q3hsGutZMdTkgkF69QoBP?si=D5hpEKmQQdGNbOypQYLsLg) | Spotify | [Muhamad Ristiyanto](https://github.com/Gimenz) | For Sickness and Health dan dapat membuat kepala mengangguk - angguk |
 | ChilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
