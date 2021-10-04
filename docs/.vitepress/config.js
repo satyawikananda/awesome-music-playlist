@@ -42,7 +42,8 @@ function getMenuSidebar() {
         { text: 'Electronic Dance Music', link: '/playlist/edm' },
         { text: 'Epic and Melodic', link: '/playlist/epic-melodic' },
         { text: 'Eurobeat', link: '/playlist/eurobeat' },
-        { text: 'Hip-hop', link: '/playlist/hip-hop' },
+        {text: 'Hip-hop', link: '/playlist/hip-hop'},
+        { text: 'Indie', link: '/playlist/indie' },
         { text: 'Instrumental', link: '/playlist/instrumental' },
         { text: 'J-Pop', link: '/playlist/jpop' },
         { text: 'Kawaii Metal', link: '/playlist/kawaii-metal' },
@@ -57,7 +58,7 @@ function getMenuSidebar() {
         { text: 'Rock', link: '/playlist/rock' },
         { text: 'Soul', link: '/playlist/soul' },
         {text: 'Soundtrack', link: '/playlist/soundtrack'},
-        { text: 'Trap', link: '/playlist/trap' }
+        { text: 'Trap', link: '/playlist/trap' },
       ]
     }
   ]

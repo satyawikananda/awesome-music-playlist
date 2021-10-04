@@ -3,7 +3,7 @@ sidebarDepth: 2
 title: Hip-hop
 ---
 
-# Hip-hp Playlist list
+# Hip-hop Playlist list
 
 
 | Playlist Name | Playlist Link | Platform | Playlist Author Name/Contributor Name | Note | Subgenre |
