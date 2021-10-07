@@ -12,3 +12,4 @@ title: Dangdut
 | Nella Kharisma | [YouTube](https://www.youtube.com/playlist?list=PLQVDVegXmBRqa3g92vhejz6SfPoxtxYlf) | YouTube | [Nella Kharisma Official](https://www.youtube.com/channel/UC2sVRtimSUdDN2myZ6Cf03w) | - | - |
 | Happy Asmara | [YouTube](https://www.youtube.com/watch?v=3tmwbTeQWmk) | YouTube | [Music Interactive](https://www.youtube.com/channel/UCm1blENZWzBGH3tIQcWcBkg) | - | - |
 | VITA ALVIA (ANEKA SAFARI) | [YouTube](https://www.youtube.com/playlist?list=PLHZf5YcKSQfLpFwqhTBJfoD8aYJEIyXX4) | YouTube | [Aneka Safari Records](https://www.youtube.com/c/AnekaSafariRecordsID) | - | - | 
+| Vita Alvia (Kopi Dangdut) | [Youtube](https://www.youtube.com/results?search_query=lagu+dangdut+) |  [Aneka Safari Records](https://www.youtube.com/c/AnekaSafariRecordsID) | - | - |
