@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-97-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-98-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -173,6 +173,7 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://github.com/kingkinfajarr"><img src="https://avatars.githubusercontent.com/u/70751731?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Kingkin Fajar Anifianto</b></sub></a><br /><a href="#content-kingkinfajarr" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sgitwhyd"><img src="https://avatars.githubusercontent.com/u/44634025?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Sigit Wahyudi</b></sub></a><br /><a href="#content-sgitwhyd" title="Content">🖋</a></td>
     <td align="center"><a href="http://acigam.my.id"><img src="https://avatars.githubusercontent.com/u/42999855?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Alif Mustaqim</b></sub></a><br /><a href="#content-Acigam" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/jvgalvao/"><img src="https://avatars.githubusercontent.com/u/50718193?v=4?s=120" width="120px;" alt=""/><br /><sub><b>João Vitor</b></sub></a><br /><a href="#content-jvgalvao14" title="Content">🖋</a></td>
   </tr>
 </table>
 
