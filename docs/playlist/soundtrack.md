@@ -12,4 +12,4 @@ title: Soundtrack
 |Soundtracks from Superhero Movies | [YouTube Music](https://music.youtube.com/playlist?list=RDCLAK5uy_lJlBtxBu4iJF7YPUcnDxnQlrkYxZWCzwE&feature=share&playnext=1 )| YouTube Music | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
 | Star Wars Soundtracks | [Spotify](https://open.spotify.com/playlist/0yDagEjoveJC0dVWBJecU2?si=1f16b0db590b4f63) | Spotify | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
 |Studio Ghibli Soundtracks | [Spotify](https://open.spotify.com/playlist/636JPjFfxIumqg3UQALZpY?si=2519381d393c47cf) | Spotify | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
-
+|Zack Snyder's Justice League Soundtracks | [Spotify](https://open.spotify.com/album/61EYnZsY4PSE2uubb81wtB?si=Mi21amKaQe6yEOC5jjTLZw&dl_branch=1) | Spotify | Junkie XL / [Tjandra Darmo](https://github.com/TjandraD) | - | - |
