@@ -13,6 +13,7 @@ title: J-Pop
 | Best Japanese Love Song 2020 | [Youtube](https://www.youtube.com/watch?v=HDGKOvJ69JQ) | Youtube | [Noricha](https://www.youtube.com/channel/UCMVRgNrM8CbEnR3oZEgUbcw) | - | - |
 | Eve - Music Video | [Youtube](https://www.youtube.com/playlist?list=PL0jh16Vp3NzVjEjKbZ3pV4f15Jze5EANV) | Youtube | [Eve](https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw) | - |
 | Harutya 春茶 メドレー - Harutya 春茶 Medley Beautiful Songs - Harutya 春茶 Best of 2020 - Best Hits Harutya 春茶 | [Youtube](https://www.youtube.com/watch?v=n7sU5QO0Cwo) | Youtube | [kouseina](https://github.com/kouseina) | - | - |
+| HIGE DANdism | [Spotify](https://open.spotify.com/playlist/1kSGOq1JED5FCSsUMdFnor?si=299c72a98a5c4500) | Spotify | [Erik3010](https://github.com/Erik3010) | - | - |
 | Human Bloom | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_n_iIVg_L_1CE3LZxu8S80gsqtX5Mx1Hyw) | Youtube | [komangss](https://github.com/komangss) | - | - |
 | J-Pop + My Playlist | [Spotify](https://open.spotify.com/playlist/0Iqws5QqjrQGDxPPzNpAbl?si=CYGBvIt3T2-tZs-QuG_emA) | Spotify | [hafizcode02](https://github.com/hafizcode02) | - | - |
 | Japanese Songs (Anime/Random) | [Spotify](https://open.spotify.com/playlist/1uLFhjpsVPyu1mr7gQ25dN?si=vs7QzwpKSl6ViEZp7esFtQ) | Spotify | [Ryan Nathaniel](https://github.com/Reihen-afk) | - | - |
