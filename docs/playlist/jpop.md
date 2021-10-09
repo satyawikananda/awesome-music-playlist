@@ -22,6 +22,7 @@ title: J-Pop
 | L'arc-en-Ciel | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JkjyO) | Spotify | [L'arc-en-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | - |
 | Love Live! -ラブライブ! - | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX1uvQpDoMmUF) | Spotify | [Farizzz](https://github.com/xvbnm48) | - | - |
 | Mafumafu Music Video | [Youtube](https://www.youtube.com/watch?v=YWZfXJrntUU&list=PLLkGVD9RIO_BI66nhaUxFS8V72gl1tbyM) | Youtube | [AdrianEdy](https://github.com/AdrianEdy) | The person who sings "I wanna be a girl" | - |
+| MATOUSIC | [Spotify](https://open.spotify.com/playlist/1NjMyMMPkQDV2wtWPCYGul?si=a3e0b3618e444821) | Spotify | [Veeloo](https://github.com/veeloo) | - | - |
 | Moepoi's Music | [Telegram](https://t.me/moepoi_music) | Telegram | [Moe Poi ~](https://github.com/moepoi) | - | - |
 | My LiSA | [Spotify](https://open.spotify.com/playlist/2MFidvNYNRvhplbc08Edib?si=eAsm97y8QBWIyK-ImgJ3wQ) | Spotify | [Satya Wikananda](https://open.spotify.com/user/satyawikananda) | This is not Lisa blackpink playlist's music, but this is LiSA japanese singer | - |
 | Naruto - Openings & Endings | [Spotify](https://open.spotify.com/playlist/6fC2rQZfULydn12nbMRom4?si=4HBuIBaaTqS96F5FVDMvJw) | Spotify | [Wonder World Music](https://open.spotify.com/user/8gnu9mwsg4uzrsfig5i2ricy1?si=YVtramdeQfKkoYWRMR4--g) | - | - |
