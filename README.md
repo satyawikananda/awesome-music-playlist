@@ -19,7 +19,7 @@ Any contribution is welcome in here. This repository is a beginner friendly For 
 
 Demo: [Click here](https://awesome-music-playlist.vercel.app/)
 
-# Instalation
+# Installation
 This project is use PNPM, if you don't use PNPM, you can install with another package manager
 ```bash
 git clone https://github.com/satyawikananda/awesome-music-playlist.git
@@ -41,8 +41,7 @@ For the contribution, you can check [here](https://awesome-music-playlist.vercel
 * [Vitepress](https://vitepress.vuejs.org/)
 
 # License
-Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-
+<a href="https://github.com/virejdasani/LuminousNewTab/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/virejdasani/LuminousNewTab?style=for-the-badge"></a>
 # Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
