@@ -181,6 +181,7 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://github.com/Erik3010"><img src="https://avatars.githubusercontent.com/u/59276485?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Erik</b></sub></a><br /><a href="#content-Erik3010" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ryansutrisno"><img src="https://avatars.githubusercontent.com/u/45848684?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Ryan Sutrisno</b></sub></a><br /><a href="#content-ryansutrisno" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/TanCL88"><img src="https://avatars.githubusercontent.com/u/65444711?v=4?s=120" width="120px;" alt=""/><br /><sub><b>TanCL88</b></sub></a><br /><a href="#content-TanCL88" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/anekoinda"><img src="https://avatars.githubusercontent.com/u/61054778?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Aneko</b></sub></a><br /><a href="#content-anekoinda" title="Content">🖋</a></td>
   </tr>
 </table>
 
