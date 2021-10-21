@@ -17,3 +17,4 @@ title: Electronic Dance Music
 | Originals<3 | [SoundCloud](https://soundcloud.com/dada-qada/sets/originals-3) | SoundCloud | [KOTONOHOUSE](https://soundcloud.com/dada-qada) | Original Mix KOTONOHOUSE | MIX |
 | The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
 | The Fat Rat Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4xmDAlVh6UVF?si=lOil0DClSQST1GlismVLKw) | Spotify | Spotify | - | MIX |
+| Yuuki Music  | [Youtube](https://www.youtube.com/playlist?list=PLfoPtuALQ2sPLF_jm_5BUqrxuCLx92BY8) | Youtube | [Yuuki Music](https://www.youtube.com/c/YUUKIMUSIC) | - | - |
