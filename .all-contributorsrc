@@ -945,12 +945,21 @@
       "contributions": [
         "content"
       ]
-     },
-     {
+    },
+    {
       "login": "robertusAdrian",
       "name": "Robertus Adrian",
       "avatar_url": "https://avatars.githubusercontent.com/u/15336755?v=4",
       "profile": "http://play.kramedgroup.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "anekoinda",
+      "name": "Aneko Inda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61054778?v=4",
+      "profile": "http://dribbble.com/aneko_inda",
       "contributions": [
         "content"
       ]
