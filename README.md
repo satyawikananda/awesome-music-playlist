@@ -3,7 +3,7 @@
 # Awesome Music Playlist 🎧
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-103-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-104-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
@@ -181,6 +181,7 @@ Awesome Music Playlist content is under [CC BY-NC-SA 4.0](https://creativecommon
     <td align="center"><a href="https://github.com/Erik3010"><img src="https://avatars.githubusercontent.com/u/59276485?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Erik</b></sub></a><br /><a href="#content-Erik3010" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ryansutrisno"><img src="https://avatars.githubusercontent.com/u/45848684?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Ryan Sutrisno</b></sub></a><br /><a href="#content-ryansutrisno" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/TanCL88"><img src="https://avatars.githubusercontent.com/u/65444711?v=4?s=120" width="120px;" alt=""/><br /><sub><b>TanCL88</b></sub></a><br /><a href="#content-TanCL88" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/fajarriansss"><img src="https://avatars.githubusercontent.com/u/77870132?v=4?s=120" width="120px;" alt=""/><br /><sub><b>Fajar Rian Setyawan</b></sub></a><br /><a href="#content-fajarriansss" title="Content">🖋</a></td>
   </tr>
 </table>
 
