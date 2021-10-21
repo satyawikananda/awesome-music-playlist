@@ -31,6 +31,7 @@ title: J-Pop
 | One Ok Rock | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXaRIedRPCEO) | Spotify | [One Ok Rock](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | - |
 | Sadness | [YouTube](https://www.youtube.com/playlist?list=PLqj9w5v5mJ8G7mYF6Egfi7kNVEfE_8_sS) | Youtube Music | [Atrem13](https://github.com/atrem13) | - | - |
 | Super Beaver | [Spotify](https://open.spotify.com/album/3nK30WwFOOEKV5RI028jSe?si=oAYeCdHdSKO7XeuY6UxJiw) | Spotify | [kucengorenji](https://github.com/kucengorenji) | - | - |
+| Takayan Playlist | [Spotify](https://open.spotify.com/playlist/6GItLMs4QBuzNVbjIIr6Eo) | Spotify | [Kebtama](https://open.spotify.com/user/bb9ft8tddc8m3oi5afv53df4n?si=170a975675f84164) | - | - |
 | TUYU | [Youtube](https://music.youtube.com/playlist?list=PL22edk-Nv6BKBlYLxqmo5j-sQ-zWMBtEO) | Youtube | [Moe Poi ~](https://github.com/moepoi) | - | - |
 | Twice Japanese Version | [Spotify](https://open.spotify.com/playlist/777JpadJnEYPy3R5RqKQYC?si=bc16e67d51d8404c) | Spotify | [Rabih Utomo](https://github.com/robycigar) | Nggak Twice nggak laki 😎 | - |
 | Vaundy | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWXYQRh3xeYje?si=4d03de803e5545f3) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - | 
@@ -38,4 +39,3 @@ title: J-Pop
 | Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
 | Yoasobi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF) | Spotify | [Yoasobi](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | - |
 | Yorushika | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=21c70bac8ba841c8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
-| Takayan Playlist | [Spotify](https://open.spotify.com/playlist/6GItLMs4QBuzNVbjIIr6Eo) | Spotify | [Kebtama](https://open.spotify.com/user/bb9ft8tddc8m3oi5afv53df4n?si=170a975675f84164) | - | - |
