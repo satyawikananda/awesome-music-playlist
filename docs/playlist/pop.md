@@ -27,4 +27,5 @@ title: Pop
 | songs that will make you feel like the main character | [Youtube](https://www.youtube.com/playlist?list=PL9V2RZFgYwBUkRkDHdPc24UX9UvQYNEff) | Youtube | [sinta3](https://github.com/sinta3) | Take a break from reality | - |
 | Teman Kerja | [Spotify](https://open.spotify.com/playlist/5RAMUUgQ7qIZboRfEZr3PZ?si=u2NkvexPSxavYRnlXjLLUg)|Spotify| [Andika Putra](https://github.com/andikaputraputu) | - |
 | Terbaik 2000an | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7nbWskw2fKF?si=eskIPgm_Qw2fnxls4zL6iw) | Spotify | Spotify | Lagu-lagu hits di tahun 2000an | Pop Melayu |
+| The Script Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4lr4y6J9Snd2?si=2041e43088a24c81&nd=1) | Spotify | [Spotify](https://open.spotify.com/user/spotify) | - | - |
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
