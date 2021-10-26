@@ -12,6 +12,7 @@ title: Pop
 | Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
 | Break My Heart Again | [YouTube](https://youtu.be/HjmBLCbTgDo) | Youtube  | [Muhammad Fauzan](https://github.com/fauzan121002) | Lagu ini dibuat oleh saudara kandung billie eilish | Indie Pop |
 | Chill | [Spotify](https://open.spotify.com/playlist/3cwE5NmEcZLc8IFNGpH2up?si=66a472de3ad641ea) | Spotify  | [Tjandra Darmo](https://github.com/TjandraD) | - | - |
+| Comfort Zone | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYWddJiPzbvb?si=9d68a30cf8e343d6) | Spotify | [Spotify](https://open.spotify.com/user/spotify) | - | - |
 | Green Day | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWVPJN9etkrEa?si=8098d3c47886429f) | Spotify | [Rabih Utomo](https://github.com/robycigar) | Salah satu band pop 2000-an favoritku | - |
 | I Love Acoustic | [YouTube](https://music.youtube.com/playlist?list=RDCLAK5uy_kIlyUNKFS6Z7rgWOhrPzqohetabYwby08&feature=share&playnext=1) | YouTube Music | [noviyana12](https://github.com/noviyana12) | - |
 | Indo 90an | [Deezer](https://www.deezer.com/us/playlist/4211635062)|Deezer| [mnabila](https://github.com/mnabila) | Lagu-lagu hits lawas dari tahun 90an yang bisa membuat kamu ber-nostalgia! Cover : Dewa 19 |
