@@ -981,6 +981,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "vnxx",
+      "name": "Kevin Adam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33047790?v=4",
+      "profile": "https://bykevin.work/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
