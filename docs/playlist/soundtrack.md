@@ -10,6 +10,7 @@ title: Soundtrack
 |FIFA 2022 Soundtrack | [Spotify](https://open.spotify.com/playlist/2a6OSlFchVcDonrXMMJ6EM?si=2fc2db2d922d4623) | Spotify | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
 | Lucifer Soundtrack | [YouTube Music](https://music.youtube.com/playlist?list=PLlO3ranUZrZ4o9oyhU51heXdnRF2SY9EU&feature=share) | YouTube Music | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
 | Micheal Giacchino Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4B24219OcojD?si=16d1182187fc4396) | Spoitfy | [Spotify](https://open.spotify.com/user/spotify) | - | Soundtrack |
+| Naruto | [Youtube](https://www.youtube.com/watch?v=q9MFxD3eQ8k) | Youtube | [Sigitw](https://github.com/sigitw) | - | Soundtrack |
 | Pirates of the Caribbean: Dead Men Tell No Tales | [Kevin Adam](https://github.com/vnxx) | - | - |
 |Popular Movie Soundtracks | [Spotify](https://open.spotify.com/playlist/1VHaEzv3qjaDBAVJrEGEge?si=00564258b11a4da7) | Spotify | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
 |Soundtracks from Superhero Movies | [YouTube Music](https://music.youtube.com/playlist?list=RDCLAK5uy_lJlBtxBu4iJF7YPUcnDxnQlrkYxZWCzwE&feature=share&playnext=1 )| YouTube Music | [Parth Kulkarni](https://github.com/parthkgh24) | - | - |
