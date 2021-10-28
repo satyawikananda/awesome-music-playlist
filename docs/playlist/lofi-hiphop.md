@@ -11,6 +11,7 @@ title: Lofi Hiphop
 | Calm Lo-Fi | [YouTube](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
 | Chill Lo-Fi HipHop Beats | [Spotify](https://open.spotify.com/playlist/2q3hsGutZMdTkgkF69QoBP?si=D5hpEKmQQdGNbOypQYLsLg) | Spotify | [Muhamad Ristiyanto](https://github.com/Gimenz) | For Sickness and Health dan dapat membuat kepala mengangguk - angguk |
 | ChilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
+| Genshin Impact but Lofi | [Youtube](https://www.youtube.com/watch?v=FCJ5feGz-k0&list=PLN3aJaAtvu-81r6L-4N_lFdClbxvnMUft) | Youtube | [Adrian Edy](https://github.com/adrianedy) | - | - |
 | lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
 | Lo-Fi Lagu Indonesia | [Youtube](https://www.youtube.com/playlist?list=PL4b5Xf5AbHM9wxOfVzwnGCr1GOsQMZwd0) | Youtube | [Masiyoo](https://www.youtube.com/channel/UC98ST6PvP1GU3BMOzjlFrlA) | Kumpulan lagu Indonesia versi Lo-Fi |
 | Lofi hip hop music - beats to relax/study to | [Spotify](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
