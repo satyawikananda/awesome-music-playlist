@@ -13,3 +13,4 @@ title: Rock
 | ONE OK ROCK | [Youtube](https://www.youtube.com/playlist?list=PLD806AE5F989D725E) | Youtube | Yoni Widhi | Music Video dari One Ok Rock | - |
 | Radiohead's Greatest Hits | [Youtube](https://www.youtube.com/playlist?list=PL2972775435A2A8BE) | Youtube | [danangtomo](https://github.com/danangtomo) | Kumpulan lagu populer dari Radiohead | Britpop |
 | This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify | PRAMADITYA | Pengiring ngoding setiap hari. | - |
+| Avenged Sevenfold | [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nS1FUxKffdfsHHCSfhSERJZHqRDtTmqJM) | Youtube Music  | [Wira Pratama](https://github.com/wirapratamaz) | The Best Playlist Song From Avenged Sevenfold | Britpop |

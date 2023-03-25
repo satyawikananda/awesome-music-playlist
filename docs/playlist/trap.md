@@ -11,3 +11,4 @@ title: Trap
 | YOOKTRAP | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yooktrap) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | - |
 | YOOKBASS | [SoundCloud](https://soundcloud.com/yookiemusic/sets/yookbass) | SoundCloud | [YOOKiE](https://soundcloud.com/yookiemusic) | - | BASS |
 | SLANDER REMIXES | [SoundCloud](https://soundcloud.com/slanderofficial/sets/remixes) | SoundCloud | [SLANDER](https://soundcloud.com/slanderofficial) | - | MIX |
+| MARS PERINDO REMIX | [YouTube](https://youtu.be/QBJKTdH5HCI) | YouTube | [qbcle.](https://www.youtube.com/@qbcle) | - | MIX |
