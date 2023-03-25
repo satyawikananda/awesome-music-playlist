@@ -14,3 +14,4 @@ title: K-Pop
 | This Is BLACKPINK | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA) | Spotify | [Wahyu Setyawan (wahyustwn)](https://github.com/wahyustwn) | List of BLACKPINK Songs |
 | This Is ITZY | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn?si=8054876ad31b491c) | Spotify | [Jirro Reo (JirroReo)](https://github.com/JirroReo) | ITZY? This is ITZY! |
 | This Is Stray Kids | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9?si=fe6bdcde2c30481f) | Spotify | [Jirro Reo (JirroReo)](https://github.com/JirroReo) | Stray Kids' hottest songs |
+| NewJeans's Playlist | [Youtube](https://www.youtube.com/watch?v=I90rnEfBFJE) | Youtube | [Lalu Tata (Atang)](https://github.com/atang-28) | List of NewJeans's Song |
