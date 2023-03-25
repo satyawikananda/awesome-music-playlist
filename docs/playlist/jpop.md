@@ -39,3 +39,6 @@ title: J-Pop
 | Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
 | Yoasobi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF) | Spotify | [Yoasobi](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | - |
 | Yorushika | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=21c70bac8ba841c8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
+| ASCA | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bhxbb?si=e5ff07d082fc41db) | Spotify | [ASCA] [Suangga](http://github.com/suanggawija) | - | - |
+| FIRE FORCE | [Spotify](https://open.spotify.com/playlist/2eF6BpDLRDn4nmrZnmmgDB?si=3a0f4444af1c4866) | Spotify | [GREEN APLE] [Suangga](http://github.com/suanggawija) | - | - |
+| Bochi the Rock | [Spotify](https://open.spotify.com/playlist/5WMHtxQfNI682Uh3OfsJiT?si=e967645c18834b5f) | Spotify | [Bochi The Rock] [Suangga](http://github.com/suanggawija) | - | - |
