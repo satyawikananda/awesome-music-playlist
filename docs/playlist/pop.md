@@ -32,3 +32,5 @@ title: Pop
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
 | Ghost | [Youtube](https://www.youtube.com/watch?v=Fp8msa5uYsc) | Youtube | [Youtube](https://www.youtube.com/watch?v=Fp8msa5uYsc) | - | - |
 | TOP 14 PLAYLIST LAGU INDONESIA TERBAIK VIRAL (AKUSTIK CAFE SANTAI) | [YouTube](https://youtube.com/watch?v=FUpV9tXB-S0) | YouTube | [Angle Baby](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
+| Mega Hit Mix | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk) | Spotify | [Spotify](https://open.spotify.com/user/spotify) | Kumpulan lagu mix pop barat | - |
+| For Revenge - Perayaan Patah Hati | [Youtube](https://www.youtube.com/playlist?list=PL2AGtto8FtgKmeSB9XMo3YPdnqenWkevE) | Youtube | [For Revenge](https://www.youtube.com/channel/UC0jzYE0EfxcvcDMhfgaBo_g) | Time to Sadboy | - |
