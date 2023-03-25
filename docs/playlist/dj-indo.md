@@ -14,4 +14,4 @@ title: DJ Indo
 
 | Playlist pubg | Playlist game | Platform | Playlist Author Name/Contributor Name | Note | Subgenre |
 | -------------- |-------------- | -------- | ------- | ------- | -------- |
-[musi](https://feelthemusi.com/playlist/2vzt4a)
+[musi](https://feelthemusi.com/playlist/2vzt4a) | - | - |
