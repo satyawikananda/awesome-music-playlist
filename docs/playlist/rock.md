@@ -13,3 +13,5 @@ title: Rock
 | ONE OK ROCK | [Youtube](https://www.youtube.com/playlist?list=PLD806AE5F989D725E) | Youtube | Yoni Widhi | Music Video dari One Ok Rock | - |
 | Radiohead's Greatest Hits | [Youtube](https://www.youtube.com/playlist?list=PL2972775435A2A8BE) | Youtube | [danangtomo](https://github.com/danangtomo) | Kumpulan lagu populer dari Radiohead | Britpop |
 | This Is THE SIGIT | [Spotify](https://open.spotify.com/playlist/7Fiwgx0MItENKzeGwqkkjh?si=z4DA9vcATym2v06ImuwFhA) | Spotify | PRAMADITYA | Pengiring ngoding setiap hari. | - |
+| Baby Metal & BMTH | [Youtube](https://youtu.be/fKyXvNkGQKc) | Youtube | Bring Me The Horizon | Music Video dari Bring Me The Horizon | - |
+| Bring Me The Horizon | [Youtube](https://youtu.be/TkV5709EG5M) | Youtube | Bring Me The Horizon | Music Video dari Bring Me The Horizon | - |
