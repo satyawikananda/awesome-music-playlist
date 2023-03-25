@@ -39,3 +39,4 @@ title: J-Pop
 | Yonezu Kenshi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI?si=3231123089f04e44) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
 | Yoasobi | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF) | Spotify | [Yoasobi](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | - |
 | Yorushika | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=21c70bac8ba841c8) | Spotify | [Rabih Utomo](https://github.com/robycigar) | - | - |
+| Hoshou Marine | [Spotify](https://open.spotify.com/album/7GB3J6RUw32TYEm7OpjDlk?si=d4UfwaFWQ0SV2crBgl5wFg) | Spotify | [atheo810](https://github.com/atheo810) | - | - |
