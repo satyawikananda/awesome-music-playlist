@@ -31,3 +31,4 @@ title: Pop
 | The Script Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4lr4y6J9Snd2?si=2041e43088a24c81&nd=1) | Spotify | [Spotify](https://open.spotify.com/user/spotify) | - | - |
 | Walk The Talk | [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l8-3x1eVRPzS2Rt8X0uQjzXjfx8uyy9zg) | Youtube | [Ibrahimsyah](https://github.com/Ibrahimsyah) | Lagu Fav dari Pamungkas | - |
 | Mega Hit Mix | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk) | Spotify | [Spotify](https://open.spotify.com/user/spotify) | Kumpulan lagu mix pop barat | - |
+| For Revenge - Perayaan Patah Hati | [Youtube](https://www.youtube.com/playlist?list=PL2AGtto8FtgKmeSB9XMo3YPdnqenWkevE) | Youtube | [For Revenge](https://www.youtube.com/channel/UC0jzYE0EfxcvcDMhfgaBo_g) | Time to Sadboy | - |
