@@ -19,3 +19,4 @@ title: Lofi Hiphop
 | Sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
 | Streambeats - Lo-Fi Beats | [Spotify](https://open.spotify.com/playlist/4kAqBBEZQsBIXMIJl6u8tO?si=HebCNLUETlm1Qffwow9ZvQ&utm_source=copy-link&dl_branch=1) | Spotify | [Streambeats Official](https://open.spotify.com/user/3goqul1iqkj8a3ka2s0a07ptr?si=dc98d2c32a734ed7&nd=1) | - |
 | This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
+| Pouring Outside | [Youtube](https://www.youtube.com/watch?v=1pQFHXhvNCw) | Youtube | [dyl dion](https://www.youtube.com/@dyldion2307)  | - |
