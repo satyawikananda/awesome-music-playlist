@@ -39,6 +39,7 @@ function getMenuSidebar() {
         { text: 'Campursari', link: '/playlist/campursari' },
         { text: 'Dangdut', link: '/playlist/dangdut' },
         { text: 'DJ Indo', link: '/playlist/dj-indo' },
+        { text: 'Drum and Bass', link: '/playlist/drum-n-bass'},
         { text: 'Electronic Dance Music', link: '/playlist/edm' },
         { text: 'Epic and Melodic', link: '/playlist/epic-melodic' },
         { text: 'Eurobeat', link: '/playlist/eurobeat' },
