@@ -18,3 +18,5 @@ title: Electronic Dance Music
 | The Fat Rat | [Spotify](https://open.spotify.com/playlist/4zHUnMsGUxARb7nPDZqs2M?si=hYD9Mu6FQXqxcQKPmD2vKg) | Spotify | The Fat Rat | - | MIX |
 | The Fat Rat Radio | [Spotify](https://open.spotify.com/playlist/37i9dQZF1E4xmDAlVh6UVF?si=lOil0DClSQST1GlismVLKw) | Spotify | Spotify | - | MIX |
 | Yuuki Music  | [Youtube](https://www.youtube.com/playlist?list=PLfoPtuALQ2sPLF_jm_5BUqrxuCLx92BY8) | Youtube | [Yuuki Music](https://www.youtube.com/c/YUUKIMUSIC) | - | - |
+| Fiskaa  | [Youtube](https://youtu.be/-TXtyYZIiWc) | Youtube | [TheGoodVibe](https://www.youtube.com/@thegoodvibeMusic) | - | - |
+| Fiskaa  | [Youtube](https://youtu.be/s0JJxPyhOH0) | Youtube | [Joji](https://www.youtube.com/channel/UCFl7yKfcRcFmIUbKeCA-SJQ) | - | - |
