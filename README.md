@@ -19,6 +19,10 @@ Any contribution is welcome in here. This repository is a beginner friendly For 
 
 Demo: [Click here](https://awesome-music-playlist.vercel.app/)
 
+## Live Music & Indie Venues
+
+- [No Stairs Please](https://nostairsplease.com/) — Every small stage in all 50 states, and who books it ([browse venues](https://nostairsplease.com/venues)).
+
 # Instalation
 This project is use PNPM, if you don't use PNPM, you can install with another package manager
 ```bash
